@@ -40,6 +40,10 @@ foreach ($allItems as $item) {
 	$output[] = itemToData($item);
 }
 
+usort($output, function ($a, $b) {
+	return $a['network']['id'] <=> $b['network']['id'];
+});
+
 file_put_contents('./generated.json', json_encode($output, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 
 function itemToData(Item $item): array {
