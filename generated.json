@@ -1,0 +1,7374 @@
+[
+    {
+        "identifier": {
+            "base": "minecraft:chainmail_boots",
+            "dictionary": "minecraft:chainmail_boots"
+        },
+        "legacy": {
+            "id": 305,
+            "meta": 0
+        },
+        "network": {
+            "id": 342,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Chainmail Boots",
+            "en": "Chain Boots",
+            "tr": "Zincir Botlar"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:diamond_boots",
+            "dictionary": "minecraft:diamond_boots"
+        },
+        "legacy": {
+            "id": 313,
+            "meta": 0
+        },
+        "network": {
+            "id": 350,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Diamond Boots",
+            "en": "Diamond Boots",
+            "tr": "Elmas Botlar"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:golden_boots",
+            "dictionary": "minecraft:golden_boots"
+        },
+        "legacy": {
+            "id": 317,
+            "meta": 0
+        },
+        "network": {
+            "id": 354,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Golden Boots",
+            "en": "Golden Boots",
+            "tr": "Altın Botlar"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:iron_boots",
+            "dictionary": "minecraft:iron_boots"
+        },
+        "legacy": {
+            "id": 309,
+            "meta": 0
+        },
+        "network": {
+            "id": 346,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Iron Boots",
+            "en": "Iron Boots",
+            "tr": "Demir Botlar"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:leather_boots",
+            "dictionary": "minecraft:leather_boots"
+        },
+        "legacy": {
+            "id": 301,
+            "meta": 0
+        },
+        "network": {
+            "id": 338,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Leather Boots",
+            "en": "Leather Boots",
+            "tr": "Deri Botlar"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:chainmail_chestplate",
+            "dictionary": "minecraft:chainmail_chestplate"
+        },
+        "legacy": {
+            "id": 303,
+            "meta": 0
+        },
+        "network": {
+            "id": 340,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Chainmail Chestplate",
+            "en": "Chain Chestplate",
+            "tr": "Zincir Zırh"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:diamond_chestplate",
+            "dictionary": "minecraft:diamond_chestplate"
+        },
+        "legacy": {
+            "id": 311,
+            "meta": 0
+        },
+        "network": {
+            "id": 348,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Diamond Chestplate",
+            "en": "Diamond Chestplate",
+            "tr": "Elmas Zırh"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:golden_chestplate",
+            "dictionary": "minecraft:golden_chestplate"
+        },
+        "legacy": {
+            "id": 315,
+            "meta": 0
+        },
+        "network": {
+            "id": 352,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Golden Chestplate",
+            "en": "Golden Chestplate",
+            "tr": "Altın Zırh"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:iron_chestplate",
+            "dictionary": "minecraft:iron_chestplate"
+        },
+        "legacy": {
+            "id": 307,
+            "meta": 0
+        },
+        "network": {
+            "id": 344,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Iron Chestplate",
+            "en": "Iron Chestplate",
+            "tr": "Demir Zırh"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:leather_chestplate",
+            "dictionary": "minecraft:leather_chestplate"
+        },
+        "legacy": {
+            "id": 299,
+            "meta": 0
+        },
+        "network": {
+            "id": 336,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Leather Tunic",
+            "en": "Leather Tunic",
+            "tr": "Deri Ceket"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:chainmail_helmet",
+            "dictionary": "minecraft:chainmail_helmet"
+        },
+        "legacy": {
+            "id": 302,
+            "meta": 0
+        },
+        "network": {
+            "id": 339,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Chainmail Helmet",
+            "en": "Chain Helmet",
+            "tr": "Zincir Miğfer"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:diamond_helmet",
+            "dictionary": "minecraft:diamond_helmet"
+        },
+        "legacy": {
+            "id": 310,
+            "meta": 0
+        },
+        "network": {
+            "id": 347,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Diamond Helmet",
+            "en": "Diamond Helmet",
+            "tr": "Elmas Miğfer"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:golden_helmet",
+            "dictionary": "minecraft:golden_helmet"
+        },
+        "legacy": {
+            "id": 314,
+            "meta": 0
+        },
+        "network": {
+            "id": 351,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Golden Helmet",
+            "en": "Golden Helmet",
+            "tr": "Altın Miğfer"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:iron_helmet",
+            "dictionary": "minecraft:iron_helmet"
+        },
+        "legacy": {
+            "id": 306,
+            "meta": 0
+        },
+        "network": {
+            "id": 343,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Iron Helmet",
+            "en": "Iron Helmet",
+            "tr": "Demir Miğfer"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:leather_helmet",
+            "dictionary": "minecraft:leather_helmet"
+        },
+        "legacy": {
+            "id": 298,
+            "meta": 0
+        },
+        "network": {
+            "id": 335,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Leather Cap",
+            "en": "Leather Cap",
+            "tr": "Deri Başlık"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:chainmail_leggings",
+            "dictionary": "minecraft:chainmail_leggings"
+        },
+        "legacy": {
+            "id": 304,
+            "meta": 0
+        },
+        "network": {
+            "id": 341,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Chainmail Leggings",
+            "en": "Chain Leggings",
+            "tr": "Zincir Bacak Zırhı"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:diamond_leggings",
+            "dictionary": "minecraft:diamond_leggings"
+        },
+        "legacy": {
+            "id": 312,
+            "meta": 0
+        },
+        "network": {
+            "id": 349,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Diamond Leggings",
+            "en": "Diamond Leggings",
+            "tr": "Elmas Bacak Zırhı"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:golden_leggings",
+            "dictionary": "minecraft:golden_leggings"
+        },
+        "legacy": {
+            "id": 316,
+            "meta": 0
+        },
+        "network": {
+            "id": 353,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Golden Leggings",
+            "en": "Golden Leggings",
+            "tr": "Altın Bacak Zırhı"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:iron_leggings",
+            "dictionary": "minecraft:iron_leggings"
+        },
+        "legacy": {
+            "id": 308,
+            "meta": 0
+        },
+        "network": {
+            "id": 345,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Iron Leggings",
+            "en": "Iron Leggings",
+            "tr": "Demir Bacak Zırhı"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:leather_leggings",
+            "dictionary": "minecraft:leather_leggings"
+        },
+        "legacy": {
+            "id": 300,
+            "meta": 0
+        },
+        "network": {
+            "id": 337,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Leather Pants",
+            "en": "Leather Pants",
+            "tr": "Deri Pantolon"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:spawn_egg",
+            "dictionary": "minecraft:zombie_spawn_egg"
+        },
+        "legacy": {
+            "id": 383,
+            "meta": 32
+        },
+        "network": {
+            "id": 447,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Zombie Spawn Egg",
+            "en": "Spawn Zombie",
+            "tr": "Çağır: Zombi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:spawn_egg",
+            "dictionary": "minecraft:squid_spawn_egg"
+        },
+        "legacy": {
+            "id": 383,
+            "meta": 17
+        },
+        "network": {
+            "id": 450,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Squid Spawn Egg",
+            "en": "Spawn Squid",
+            "tr": "Çağır: Mürekkep Balığı"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:spawn_egg",
+            "dictionary": "minecraft:villager_spawn_egg"
+        },
+        "legacy": {
+            "id": 383,
+            "meta": 15
+        },
+        "network": {
+            "id": 449,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Villager Spawn Egg",
+            "en": "Spawn Villager",
+            "tr": "Çağır: Köylü"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:diamond_axe",
+            "dictionary": "minecraft:diamond_axe"
+        },
+        "legacy": {
+            "id": 279,
+            "meta": 0
+        },
+        "network": {
+            "id": 319,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Diamond Axe",
+            "en": "Diamond Axe",
+            "tr": "Elmas Balta"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:golden_axe",
+            "dictionary": "minecraft:golden_axe"
+        },
+        "legacy": {
+            "id": 286,
+            "meta": 0
+        },
+        "network": {
+            "id": 325,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Golden Axe",
+            "en": "Golden Axe",
+            "tr": "Altın Balta"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:iron_axe",
+            "dictionary": "minecraft:iron_axe"
+        },
+        "legacy": {
+            "id": 258,
+            "meta": 0
+        },
+        "network": {
+            "id": 298,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Iron Axe",
+            "en": "Iron Axe",
+            "tr": "Demir Balta"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:stone_axe",
+            "dictionary": "minecraft:stone_axe"
+        },
+        "legacy": {
+            "id": 275,
+            "meta": 0
+        },
+        "network": {
+            "id": 315,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Stone Axe",
+            "en": "Stone Axe",
+            "tr": "Taş Balta"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:wooden_axe",
+            "dictionary": "minecraft:wooden_axe"
+        },
+        "legacy": {
+            "id": 271,
+            "meta": 0
+        },
+        "network": {
+            "id": 311,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Wooden Axe",
+            "en": "Wooden Axe",
+            "tr": "Tahta Balta"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:diamond_hoe",
+            "dictionary": "minecraft:diamond_hoe"
+        },
+        "legacy": {
+            "id": 293,
+            "meta": 0
+        },
+        "network": {
+            "id": 332,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Diamond Hoe",
+            "en": "Diamond Hoe",
+            "tr": "Elmas Çapa"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:golden_hoe",
+            "dictionary": "minecraft:golden_hoe"
+        },
+        "legacy": {
+            "id": 294,
+            "meta": 0
+        },
+        "network": {
+            "id": 333,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Golden Hoe",
+            "en": "Golden Hoe",
+            "tr": "Altın Çapa"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:iron_hoe",
+            "dictionary": "minecraft:iron_hoe"
+        },
+        "legacy": {
+            "id": 292,
+            "meta": 0
+        },
+        "network": {
+            "id": 331,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Iron Hoe",
+            "en": "Iron Hoe",
+            "tr": "Demir Çapa"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:stone_hoe",
+            "dictionary": "minecraft:stone_hoe"
+        },
+        "legacy": {
+            "id": 291,
+            "meta": 0
+        },
+        "network": {
+            "id": 330,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Stone Hoe",
+            "en": "Stone Hoe",
+            "tr": "Taş Çapa"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:wooden_hoe",
+            "dictionary": "minecraft:wooden_hoe"
+        },
+        "legacy": {
+            "id": 290,
+            "meta": 0
+        },
+        "network": {
+            "id": 329,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Wooden Hoe",
+            "en": "Wooden Hoe",
+            "tr": "Tahta Çapa"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:diamond_pickaxe",
+            "dictionary": "minecraft:diamond_pickaxe"
+        },
+        "legacy": {
+            "id": 278,
+            "meta": 0
+        },
+        "network": {
+            "id": 318,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Diamond Pickaxe",
+            "en": "Diamond Pickaxe",
+            "tr": "Elmas Kazma"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:golden_pickaxe",
+            "dictionary": "minecraft:golden_pickaxe"
+        },
+        "legacy": {
+            "id": 285,
+            "meta": 0
+        },
+        "network": {
+            "id": 324,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Golden Pickaxe",
+            "en": "Golden Pickaxe",
+            "tr": "Altın Kazma"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:iron_pickaxe",
+            "dictionary": "minecraft:iron_pickaxe"
+        },
+        "legacy": {
+            "id": 257,
+            "meta": 0
+        },
+        "network": {
+            "id": 297,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Iron Pickaxe",
+            "en": "Iron Pickaxe",
+            "tr": "Demir Kazma"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:stone_pickaxe",
+            "dictionary": "minecraft:stone_pickaxe"
+        },
+        "legacy": {
+            "id": 274,
+            "meta": 0
+        },
+        "network": {
+            "id": 314,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Stone Pickaxe",
+            "en": "Stone Pickaxe",
+            "tr": "Taş Kazma"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:wooden_pickaxe",
+            "dictionary": "minecraft:wooden_pickaxe"
+        },
+        "legacy": {
+            "id": 270,
+            "meta": 0
+        },
+        "network": {
+            "id": 310,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Wooden Pickaxe",
+            "en": "Wooden Pickaxe",
+            "tr": "Tahta Kazma"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:diamond_shovel",
+            "dictionary": "minecraft:diamond_shovel"
+        },
+        "legacy": {
+            "id": 277,
+            "meta": 0
+        },
+        "network": {
+            "id": 317,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Diamond Shovel",
+            "en": "Diamond Shovel",
+            "tr": "Elmas Kürek"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:golden_shovel",
+            "dictionary": "minecraft:golden_shovel"
+        },
+        "legacy": {
+            "id": 284,
+            "meta": 0
+        },
+        "network": {
+            "id": 323,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Golden Shovel",
+            "en": "Golden Shovel",
+            "tr": "Altın Kürek"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:iron_shovel",
+            "dictionary": "minecraft:iron_shovel"
+        },
+        "legacy": {
+            "id": 256,
+            "meta": 0
+        },
+        "network": {
+            "id": 296,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Iron Shovel",
+            "en": "Iron Shovel",
+            "tr": "Demir Kürek"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:stone_shovel",
+            "dictionary": "minecraft:stone_shovel"
+        },
+        "legacy": {
+            "id": 273,
+            "meta": 0
+        },
+        "network": {
+            "id": 313,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Stone Shovel",
+            "en": "Stone Shovel",
+            "tr": "Taş Kürek"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:wooden_shovel",
+            "dictionary": "minecraft:wooden_shovel"
+        },
+        "legacy": {
+            "id": 269,
+            "meta": 0
+        },
+        "network": {
+            "id": 309,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Wooden Shovel",
+            "en": "Wooden Shovel",
+            "tr": "Tahta Kürek"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:diamond_sword",
+            "dictionary": "minecraft:diamond_sword"
+        },
+        "legacy": {
+            "id": 276,
+            "meta": 0
+        },
+        "network": {
+            "id": 316,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Diamond Sword",
+            "en": "Diamond Sword",
+            "tr": "Elmas Kılıç"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:golden_sword",
+            "dictionary": "minecraft:golden_sword"
+        },
+        "legacy": {
+            "id": 283,
+            "meta": 0
+        },
+        "network": {
+            "id": 322,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Golden Sword",
+            "en": "Golden Sword",
+            "tr": "Altın Kılıç"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:iron_sword",
+            "dictionary": "minecraft:iron_sword"
+        },
+        "legacy": {
+            "id": 267,
+            "meta": 0
+        },
+        "network": {
+            "id": 307,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Iron Sword",
+            "en": "Iron Sword",
+            "tr": "Demir Kılıç"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:stone_sword",
+            "dictionary": "minecraft:stone_sword"
+        },
+        "legacy": {
+            "id": 272,
+            "meta": 0
+        },
+        "network": {
+            "id": 312,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Stone Sword",
+            "en": "Stone Sword",
+            "tr": "Taş Kılıç"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:wooden_sword",
+            "dictionary": "minecraft:wooden_sword"
+        },
+        "legacy": {
+            "id": 268,
+            "meta": 0
+        },
+        "network": {
+            "id": 308,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Wooden Sword",
+            "en": "Wooden Sword",
+            "tr": "Tahta Kılıç"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:apple",
+            "dictionary": "minecraft:apple"
+        },
+        "legacy": {
+            "id": 260,
+            "meta": 0
+        },
+        "network": {
+            "id": 257,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Apple",
+            "en": "Apple",
+            "tr": "Elma"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:arrow",
+            "dictionary": "minecraft:arrow"
+        },
+        "legacy": {
+            "id": 262,
+            "meta": 0
+        },
+        "network": {
+            "id": 301,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Arrow",
+            "en": "Arrow",
+            "tr": "Ok"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:baked_potato",
+            "dictionary": "minecraft:baked_potato"
+        },
+        "legacy": {
+            "id": 393,
+            "meta": 0
+        },
+        "network": {
+            "id": 281,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Baked Potato",
+            "en": "Baked Potato",
+            "tr": "Fırında Patates"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bamboo",
+            "dictionary": "minecraft:bamboo"
+        },
+        "legacy": {
+            "id": -163,
+            "meta": 0
+        },
+        "network": {
+            "id": -163,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Bamboo",
+            "en": "Bamboo",
+            "tr": "Bambu"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:beetroot",
+            "dictionary": "minecraft:beetroot"
+        },
+        "legacy": {
+            "id": 457,
+            "meta": 0
+        },
+        "network": {
+            "id": 285,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Beetroot",
+            "en": "Beetroot",
+            "tr": "Pancar"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:beetroot_seeds",
+            "dictionary": "minecraft:beetroot_seeds"
+        },
+        "legacy": {
+            "id": 458,
+            "meta": 0
+        },
+        "network": {
+            "id": 295,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Beetroot Seeds",
+            "en": "Beetroot Seeds",
+            "tr": "Pancar Tohumu"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:beetroot_soup",
+            "dictionary": "minecraft:beetroot_soup"
+        },
+        "legacy": {
+            "id": 459,
+            "meta": 0
+        },
+        "network": {
+            "id": 286,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Beetroot Soup",
+            "en": "Beetroot Soup",
+            "tr": "Pancar Çorbası"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:blaze_rod",
+            "dictionary": "minecraft:blaze_rod"
+        },
+        "legacy": {
+            "id": 369,
+            "meta": 0
+        },
+        "network": {
+            "id": 423,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Blaze Rod",
+            "en": "Blaze Rod",
+            "tr": "Blaze Çubuğu"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:book",
+            "dictionary": "minecraft:book"
+        },
+        "legacy": {
+            "id": 340,
+            "meta": 0
+        },
+        "network": {
+            "id": 387,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Book",
+            "en": "Book",
+            "tr": "Kitap"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bow",
+            "dictionary": "minecraft:bow"
+        },
+        "legacy": {
+            "id": 261,
+            "meta": 0
+        },
+        "network": {
+            "id": 300,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Bow",
+            "en": "Bow",
+            "tr": "Yay"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bowl",
+            "dictionary": "minecraft:bowl"
+        },
+        "legacy": {
+            "id": 281,
+            "meta": 0
+        },
+        "network": {
+            "id": 321,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Bowl",
+            "en": "Bowl",
+            "tr": "Kase"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bread",
+            "dictionary": "minecraft:bread"
+        },
+        "legacy": {
+            "id": 297,
+            "meta": 0
+        },
+        "network": {
+            "id": 261,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Bread",
+            "en": "Bread",
+            "tr": "Ekmek"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bucket",
+            "dictionary": "minecraft:bucket"
+        },
+        "legacy": {
+            "id": 325,
+            "meta": 0
+        },
+        "network": {
+            "id": 360,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Bucket",
+            "en": "Bucket",
+            "tr": "Kova"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:carrot",
+            "dictionary": "minecraft:carrot"
+        },
+        "legacy": {
+            "id": 391,
+            "meta": 0
+        },
+        "network": {
+            "id": 279,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Carrot",
+            "en": "Carrot",
+            "tr": "Havuç"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:chorus_fruit",
+            "dictionary": "minecraft:chorus_fruit"
+        },
+        "legacy": {
+            "id": 432,
+            "meta": 0
+        },
+        "network": {
+            "id": 558,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Chorus Fruit",
+            "en": "Chorus Fruit",
+            "tr": "Koro Meyvesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:clock",
+            "dictionary": "minecraft:clock"
+        },
+        "legacy": {
+            "id": 347,
+            "meta": 0
+        },
+        "network": {
+            "id": 393,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Clock",
+            "en": "Clock",
+            "tr": "Saat"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:clownfish",
+            "dictionary": "minecraft:tropical_fish"
+        },
+        "legacy": {
+            "id": 461,
+            "meta": 0
+        },
+        "network": {
+            "id": 266,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Clownfish",
+            "en": "Tropical Fish",
+            "tr": "Tropik Balık"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:coal",
+            "dictionary": "minecraft:coal"
+        },
+        "legacy": {
+            "id": 263,
+            "meta": 0
+        },
+        "network": {
+            "id": 302,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Coal",
+            "en": "Coal",
+            "tr": "Kömür"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:coral_fan",
+            "dictionary": "minecraft:coral_fan"
+        },
+        "legacy": {
+            "id": -133,
+            "meta": 0
+        },
+        "network": {
+            "id": -133,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Coral Fan",
+            "en": "Tube Coral Fan",
+            "tr": "Tüp Mercan Yelpazesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:coral_fan_dead",
+            "dictionary": "minecraft:coral_fan_dead"
+        },
+        "legacy": {
+            "id": -134,
+            "meta": 0
+        },
+        "network": {
+            "id": -134,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Coral Fan",
+            "en": "Dead Tube Coral Fan",
+            "tr": "Ölü Tüp Mercan Yelpazesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:coral_fan",
+            "dictionary": "minecraft:coral_fan"
+        },
+        "legacy": {
+            "id": -133,
+            "meta": 1
+        },
+        "network": {
+            "id": -133,
+            "meta": 1
+        },
+        "name": {
+            "pmmp": "Coral Fan",
+            "en": "Tube Coral Fan",
+            "tr": "Tüp Mercan Yelpazesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:coral_fan_dead",
+            "dictionary": "minecraft:coral_fan_dead"
+        },
+        "legacy": {
+            "id": -134,
+            "meta": 1
+        },
+        "network": {
+            "id": -134,
+            "meta": 1
+        },
+        "name": {
+            "pmmp": "Coral Fan",
+            "en": "Dead Tube Coral Fan",
+            "tr": "Ölü Tüp Mercan Yelpazesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:coral_fan",
+            "dictionary": "minecraft:coral_fan"
+        },
+        "legacy": {
+            "id": -133,
+            "meta": 2
+        },
+        "network": {
+            "id": -133,
+            "meta": 2
+        },
+        "name": {
+            "pmmp": "Coral Fan",
+            "en": "Tube Coral Fan",
+            "tr": "Tüp Mercan Yelpazesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:coral_fan_dead",
+            "dictionary": "minecraft:coral_fan_dead"
+        },
+        "legacy": {
+            "id": -134,
+            "meta": 2
+        },
+        "network": {
+            "id": -134,
+            "meta": 2
+        },
+        "name": {
+            "pmmp": "Coral Fan",
+            "en": "Dead Tube Coral Fan",
+            "tr": "Ölü Tüp Mercan Yelpazesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:coral_fan",
+            "dictionary": "minecraft:coral_fan"
+        },
+        "legacy": {
+            "id": -133,
+            "meta": 3
+        },
+        "network": {
+            "id": -133,
+            "meta": 3
+        },
+        "name": {
+            "pmmp": "Coral Fan",
+            "en": "Tube Coral Fan",
+            "tr": "Tüp Mercan Yelpazesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:coral_fan_dead",
+            "dictionary": "minecraft:coral_fan_dead"
+        },
+        "legacy": {
+            "id": -134,
+            "meta": 3
+        },
+        "network": {
+            "id": -134,
+            "meta": 3
+        },
+        "name": {
+            "pmmp": "Coral Fan",
+            "en": "Dead Tube Coral Fan",
+            "tr": "Ölü Tüp Mercan Yelpazesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:coral_fan",
+            "dictionary": "minecraft:coral_fan"
+        },
+        "legacy": {
+            "id": -133,
+            "meta": 4
+        },
+        "network": {
+            "id": -133,
+            "meta": 4
+        },
+        "name": {
+            "pmmp": "Coral Fan",
+            "en": "Tube Coral Fan",
+            "tr": "Tüp Mercan Yelpazesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:coral_fan_dead",
+            "dictionary": "minecraft:coral_fan_dead"
+        },
+        "legacy": {
+            "id": -134,
+            "meta": 4
+        },
+        "network": {
+            "id": -134,
+            "meta": 4
+        },
+        "name": {
+            "pmmp": "Coral Fan",
+            "en": "Dead Tube Coral Fan",
+            "tr": "Ölü Tüp Mercan Yelpazesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:coal",
+            "dictionary": "minecraft:charcoal"
+        },
+        "legacy": {
+            "id": 263,
+            "meta": 1
+        },
+        "network": {
+            "id": 303,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Charcoal",
+            "en": "Charcoal",
+            "tr": "Odun Kömürü"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:dye",
+            "dictionary": "minecraft:cocoa_beans"
+        },
+        "legacy": {
+            "id": 351,
+            "meta": 3
+        },
+        "network": {
+            "id": 412,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Cocoa Beans",
+            "en": "Cocoa Beans",
+            "tr": "Kakao Çekirdekleri"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compass",
+            "dictionary": "minecraft:compass"
+        },
+        "legacy": {
+            "id": 345,
+            "meta": 0
+        },
+        "network": {
+            "id": 391,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Compass",
+            "en": "Compass",
+            "tr": "Pusula"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:cooked_chicken",
+            "dictionary": "minecraft:cooked_chicken"
+        },
+        "legacy": {
+            "id": 366,
+            "meta": 0
+        },
+        "network": {
+            "id": 276,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Cooked Chicken",
+            "en": "Cooked Chicken",
+            "tr": "Pişmiş Tavuk"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:cooked_fish",
+            "dictionary": "minecraft:cooked_cod"
+        },
+        "legacy": {
+            "id": 350,
+            "meta": 0
+        },
+        "network": {
+            "id": 268,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Cooked Fish",
+            "en": "Cooked Cod",
+            "tr": "Pişmiş Morina"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:muttoncooked",
+            "dictionary": "minecraft:cooked_mutton"
+        },
+        "legacy": {
+            "id": 424,
+            "meta": 0
+        },
+        "network": {
+            "id": 551,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Cooked Mutton",
+            "en": "Cooked Mutton",
+            "tr": "Pişmiş Koyun Eti"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:cooked_porkchop",
+            "dictionary": "minecraft:cooked_porkchop"
+        },
+        "legacy": {
+            "id": 320,
+            "meta": 0
+        },
+        "network": {
+            "id": 263,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Cooked Porkchop",
+            "en": "Cooked Porkchop",
+            "tr": "Pişmiş Domuz Pirzolası"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:cooked_rabbit",
+            "dictionary": "minecraft:cooked_rabbit"
+        },
+        "legacy": {
+            "id": 412,
+            "meta": 0
+        },
+        "network": {
+            "id": 289,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Cooked Rabbit",
+            "en": "Cooked Rabbit",
+            "tr": "Pişmiş Tavşan Eti"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:cooked_salmon",
+            "dictionary": "minecraft:cooked_salmon"
+        },
+        "legacy": {
+            "id": 463,
+            "meta": 0
+        },
+        "network": {
+            "id": 269,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Cooked Salmon",
+            "en": "Cooked Salmon",
+            "tr": "Pişmiş Somon Balığı"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:cookie",
+            "dictionary": "minecraft:cookie"
+        },
+        "legacy": {
+            "id": 357,
+            "meta": 0
+        },
+        "network": {
+            "id": 271,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Cookie",
+            "en": "Cookie",
+            "tr": "Kurabiye"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:dried_kelp",
+            "dictionary": "minecraft:dried_kelp"
+        },
+        "legacy": {
+            "id": 464,
+            "meta": 0
+        },
+        "network": {
+            "id": 270,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Dried Kelp",
+            "en": "Dried Kelp",
+            "tr": "Kurutulmuş Varek"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:egg",
+            "dictionary": "minecraft:egg"
+        },
+        "legacy": {
+            "id": 344,
+            "meta": 0
+        },
+        "network": {
+            "id": 390,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Egg",
+            "en": "Egg",
+            "tr": "Yumurta"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:ender_pearl",
+            "dictionary": "minecraft:ender_pearl"
+        },
+        "legacy": {
+            "id": 368,
+            "meta": 0
+        },
+        "network": {
+            "id": 422,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Ender Pearl",
+            "en": "Ender Pearl",
+            "tr": "Ender İncisi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:experience_bottle",
+            "dictionary": "minecraft:experience_bottle"
+        },
+        "legacy": {
+            "id": 384,
+            "meta": 0
+        },
+        "network": {
+            "id": 508,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Bottle o' Enchanting",
+            "en": "Bottle o' Enchanting",
+            "tr": "Büyü Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:dye",
+            "dictionary": "minecraft:bone_meal"
+        },
+        "legacy": {
+            "id": 351,
+            "meta": 15
+        },
+        "network": {
+            "id": 411,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Bone Meal",
+            "en": "Bone Meal",
+            "tr": "Kemik Tozu"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:fishing_rod",
+            "dictionary": "minecraft:fishing_rod"
+        },
+        "legacy": {
+            "id": 346,
+            "meta": 0
+        },
+        "network": {
+            "id": 392,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Fishing Rod",
+            "en": "Fishing Rod",
+            "tr": "Olta"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:flint_and_steel",
+            "dictionary": "minecraft:flint_and_steel"
+        },
+        "legacy": {
+            "id": 259,
+            "meta": 0
+        },
+        "network": {
+            "id": 299,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Flint and Steel",
+            "en": "Flint and Steel",
+            "tr": "Çakmaktaşı ve Çelik"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:glass_bottle",
+            "dictionary": "minecraft:glass_bottle"
+        },
+        "legacy": {
+            "id": 374,
+            "meta": 0
+        },
+        "network": {
+            "id": 427,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Glass Bottle",
+            "en": "Glass Bottle",
+            "tr": "Cam şişe"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:golden_apple",
+            "dictionary": "minecraft:golden_apple"
+        },
+        "legacy": {
+            "id": 322,
+            "meta": 0
+        },
+        "network": {
+            "id": 258,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Golden Apple",
+            "en": "Golden Apple",
+            "tr": "Altın Elma"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:appleenchanted",
+            "dictionary": "minecraft:enchanted_golden_apple"
+        },
+        "legacy": {
+            "id": 466,
+            "meta": 0
+        },
+        "network": {
+            "id": 259,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Enchanted Golden Apple",
+            "en": "Enchanted Apple",
+            "tr": "Büyülü Elma"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:golden_carrot",
+            "dictionary": "minecraft:golden_carrot"
+        },
+        "legacy": {
+            "id": 396,
+            "meta": 0
+        },
+        "network": {
+            "id": 283,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Golden Carrot",
+            "en": "Golden Carrot",
+            "tr": "Altın Havuç"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:blaze_powder",
+            "dictionary": "minecraft:blaze_powder"
+        },
+        "legacy": {
+            "id": 377,
+            "meta": 0
+        },
+        "network": {
+            "id": 429,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Blaze Powder",
+            "en": "Blaze Powder",
+            "tr": "Blaze Tozu"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bleach",
+            "dictionary": "minecraft:bleach"
+        },
+        "legacy": {
+            "id": 451,
+            "meta": 0
+        },
+        "network": {
+            "id": 596,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Bleach",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bone",
+            "dictionary": "minecraft:bone"
+        },
+        "legacy": {
+            "id": 352,
+            "meta": 0
+        },
+        "network": {
+            "id": 415,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Bone",
+            "en": "Bone",
+            "tr": "Kemik"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:brick",
+            "dictionary": "minecraft:brick"
+        },
+        "legacy": {
+            "id": 336,
+            "meta": 0
+        },
+        "network": {
+            "id": 383,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Brick",
+            "en": "Brick",
+            "tr": "Tuğla"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:chorus_fruit_popped",
+            "dictionary": "minecraft:popped_chorus_fruit"
+        },
+        "legacy": {
+            "id": 433,
+            "meta": 0
+        },
+        "network": {
+            "id": 559,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Popped Chorus Fruit",
+            "en": "Popped Chorus Fruit",
+            "tr": "Atık Koro Meyvesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:clay_ball",
+            "dictionary": "minecraft:clay_ball"
+        },
+        "legacy": {
+            "id": 337,
+            "meta": 0
+        },
+        "network": {
+            "id": 384,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Clay",
+            "en": "Clay",
+            "tr": "Kil"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 0
+        },
+        "network": {
+            "id": 594,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Salt",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 1
+        },
+        "network": {
+            "id": 594,
+            "meta": 1
+        },
+        "name": {
+            "pmmp": "Sodium Oxide",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 2
+        },
+        "network": {
+            "id": 594,
+            "meta": 2
+        },
+        "name": {
+            "pmmp": "Sodium Hydroxide",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 3
+        },
+        "network": {
+            "id": 594,
+            "meta": 3
+        },
+        "name": {
+            "pmmp": "Magnesium Nitrate",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 4
+        },
+        "network": {
+            "id": 594,
+            "meta": 4
+        },
+        "name": {
+            "pmmp": "Iron Sulphide",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 5
+        },
+        "network": {
+            "id": 594,
+            "meta": 5
+        },
+        "name": {
+            "pmmp": "Lithium Hydride",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 6
+        },
+        "network": {
+            "id": 594,
+            "meta": 6
+        },
+        "name": {
+            "pmmp": "Sodium Hydride",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 7
+        },
+        "network": {
+            "id": 594,
+            "meta": 7
+        },
+        "name": {
+            "pmmp": "Calcium Bromide",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 8
+        },
+        "network": {
+            "id": 594,
+            "meta": 8
+        },
+        "name": {
+            "pmmp": "Magnesium Oxide",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 9
+        },
+        "network": {
+            "id": 594,
+            "meta": 9
+        },
+        "name": {
+            "pmmp": "Sodium Acetate",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 10
+        },
+        "network": {
+            "id": 594,
+            "meta": 10
+        },
+        "name": {
+            "pmmp": "Luminol",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 11
+        },
+        "network": {
+            "id": 594,
+            "meta": 11
+        },
+        "name": {
+            "pmmp": "Charcoal",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 12
+        },
+        "network": {
+            "id": 594,
+            "meta": 12
+        },
+        "name": {
+            "pmmp": "Sugar",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 13
+        },
+        "network": {
+            "id": 594,
+            "meta": 13
+        },
+        "name": {
+            "pmmp": "Aluminium Oxide",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 14
+        },
+        "network": {
+            "id": 594,
+            "meta": 14
+        },
+        "name": {
+            "pmmp": "Boron Trioxide",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 15
+        },
+        "network": {
+            "id": 594,
+            "meta": 15
+        },
+        "name": {
+            "pmmp": "Soap",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 16
+        },
+        "network": {
+            "id": 594,
+            "meta": 16
+        },
+        "name": {
+            "pmmp": "Polyethylene",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 17
+        },
+        "network": {
+            "id": 594,
+            "meta": 17
+        },
+        "name": {
+            "pmmp": "Rubbish",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 18
+        },
+        "network": {
+            "id": 594,
+            "meta": 18
+        },
+        "name": {
+            "pmmp": "Magnesium Salts",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 19
+        },
+        "network": {
+            "id": 594,
+            "meta": 19
+        },
+        "name": {
+            "pmmp": "Sulphate",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 20
+        },
+        "network": {
+            "id": 594,
+            "meta": 20
+        },
+        "name": {
+            "pmmp": "Barium Sulphate",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 21
+        },
+        "network": {
+            "id": 594,
+            "meta": 21
+        },
+        "name": {
+            "pmmp": "Potassium Chloride",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 22
+        },
+        "network": {
+            "id": 594,
+            "meta": 22
+        },
+        "name": {
+            "pmmp": "Mercuric Chloride",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 23
+        },
+        "network": {
+            "id": 594,
+            "meta": 23
+        },
+        "name": {
+            "pmmp": "Cerium Chloride",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 24
+        },
+        "network": {
+            "id": 594,
+            "meta": 24
+        },
+        "name": {
+            "pmmp": "Tungsten Chloride",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 25
+        },
+        "network": {
+            "id": 594,
+            "meta": 25
+        },
+        "name": {
+            "pmmp": "Calcium Chloride",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 26
+        },
+        "network": {
+            "id": 594,
+            "meta": 26
+        },
+        "name": {
+            "pmmp": "Water",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 27
+        },
+        "network": {
+            "id": 594,
+            "meta": 27
+        },
+        "name": {
+            "pmmp": "Glue",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 28
+        },
+        "network": {
+            "id": 594,
+            "meta": 28
+        },
+        "name": {
+            "pmmp": "Hypochlorite",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 29
+        },
+        "network": {
+            "id": 594,
+            "meta": 29
+        },
+        "name": {
+            "pmmp": "Crude Oil",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 30
+        },
+        "network": {
+            "id": 594,
+            "meta": 30
+        },
+        "name": {
+            "pmmp": "Latex",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 31
+        },
+        "network": {
+            "id": 594,
+            "meta": 31
+        },
+        "name": {
+            "pmmp": "Potassium Iodide",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 32
+        },
+        "network": {
+            "id": 594,
+            "meta": 32
+        },
+        "name": {
+            "pmmp": "Sodium Fluoride",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 33
+        },
+        "network": {
+            "id": 594,
+            "meta": 33
+        },
+        "name": {
+            "pmmp": "Benzene",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 34
+        },
+        "network": {
+            "id": 594,
+            "meta": 34
+        },
+        "name": {
+            "pmmp": "Ink",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 35
+        },
+        "network": {
+            "id": 594,
+            "meta": 35
+        },
+        "name": {
+            "pmmp": "Hydrogen Peroxide",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 36
+        },
+        "network": {
+            "id": 594,
+            "meta": 36
+        },
+        "name": {
+            "pmmp": "Ammonia",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:compound",
+            "dictionary": "minecraft:compound"
+        },
+        "legacy": {
+            "id": 499,
+            "meta": 37
+        },
+        "network": {
+            "id": 594,
+            "meta": 37
+        },
+        "name": {
+            "pmmp": "Sodium Hypochlorite",
+            "en": "Unknown",
+            "tr": "Unknown"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:diamond",
+            "dictionary": "minecraft:diamond"
+        },
+        "legacy": {
+            "id": 264,
+            "meta": 0
+        },
+        "network": {
+            "id": 304,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Diamond",
+            "en": "Diamond",
+            "tr": "Elmas"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:dragon_breath",
+            "dictionary": "minecraft:dragon_breath"
+        },
+        "legacy": {
+            "id": 437,
+            "meta": 0
+        },
+        "network": {
+            "id": 560,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Dragon's Breath",
+            "en": "Dragon's Breath",
+            "tr": "Ejderha Nefesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:dye",
+            "dictionary": "minecraft:ink_sac"
+        },
+        "legacy": {
+            "id": 351,
+            "meta": 0
+        },
+        "network": {
+            "id": 413,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Ink Sac",
+            "en": "Ink Sac",
+            "tr": "Mürekkep Kesesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:dye",
+            "dictionary": "minecraft:lapis_lazuli"
+        },
+        "legacy": {
+            "id": 351,
+            "meta": 4
+        },
+        "network": {
+            "id": 414,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Lapis Lazuli",
+            "en": "Lapis Lazuli",
+            "tr": "Lacivert Taş"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:emerald",
+            "dictionary": "minecraft:emerald"
+        },
+        "legacy": {
+            "id": 388,
+            "meta": 0
+        },
+        "network": {
+            "id": 512,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Emerald",
+            "en": "Emerald",
+            "tr": "Zümrüt"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:feather",
+            "dictionary": "minecraft:feather"
+        },
+        "legacy": {
+            "id": 288,
+            "meta": 0
+        },
+        "network": {
+            "id": 327,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Feather",
+            "en": "Feather",
+            "tr": "Tüy"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:fermented_spider_eye",
+            "dictionary": "minecraft:fermented_spider_eye"
+        },
+        "legacy": {
+            "id": 376,
+            "meta": 0
+        },
+        "network": {
+            "id": 428,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Fermented Spider Eye",
+            "en": "Fermented Spider Eye",
+            "tr": "Fermente Örümcek Gözü"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:flint",
+            "dictionary": "minecraft:flint"
+        },
+        "legacy": {
+            "id": 318,
+            "meta": 0
+        },
+        "network": {
+            "id": 356,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Flint",
+            "en": "Flint",
+            "tr": "Çakmaktaşı"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:ghast_tear",
+            "dictionary": "minecraft:ghast_tear"
+        },
+        "legacy": {
+            "id": 370,
+            "meta": 0
+        },
+        "network": {
+            "id": 424,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Ghast Tear",
+            "en": "Ghast Tear",
+            "tr": "Ghast gözyaşı"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:speckled_melon",
+            "dictionary": "minecraft:glistering_melon_slice"
+        },
+        "legacy": {
+            "id": 382,
+            "meta": 0
+        },
+        "network": {
+            "id": 434,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Glistering Melon",
+            "en": "Glistering Melon",
+            "tr": "Parlayan Karpuz"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:glowstone_dust",
+            "dictionary": "minecraft:glowstone_dust"
+        },
+        "legacy": {
+            "id": 348,
+            "meta": 0
+        },
+        "network": {
+            "id": 394,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Glowstone Dust",
+            "en": "Glowstone Dust",
+            "tr": "Işık Taşı Tozu"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:gold_ingot",
+            "dictionary": "minecraft:gold_ingot"
+        },
+        "legacy": {
+            "id": 266,
+            "meta": 0
+        },
+        "network": {
+            "id": 306,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Gold Ingot",
+            "en": "Gold Ingot",
+            "tr": "Altın Külçesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:gold_nugget",
+            "dictionary": "minecraft:gold_nugget"
+        },
+        "legacy": {
+            "id": 371,
+            "meta": 0
+        },
+        "network": {
+            "id": 425,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Gold Nugget",
+            "en": "Gold Nugget",
+            "tr": "Altın Parçası"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:gunpowder",
+            "dictionary": "minecraft:gunpowder"
+        },
+        "legacy": {
+            "id": 289,
+            "meta": 0
+        },
+        "network": {
+            "id": 328,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Gunpowder",
+            "en": "Gunpowder",
+            "tr": "Barut"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:heart_of_the_sea",
+            "dictionary": "minecraft:heart_of_the_sea"
+        },
+        "legacy": {
+            "id": 467,
+            "meta": 0
+        },
+        "network": {
+            "id": 571,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Heart of the Sea",
+            "en": "Heart of the Sea",
+            "tr": "Denizin Kalbi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:iron_ingot",
+            "dictionary": "minecraft:iron_ingot"
+        },
+        "legacy": {
+            "id": 265,
+            "meta": 0
+        },
+        "network": {
+            "id": 305,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Iron Ingot",
+            "en": "Iron Ingot",
+            "tr": "Demir külçesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:iron_nugget",
+            "dictionary": "minecraft:iron_nugget"
+        },
+        "legacy": {
+            "id": 452,
+            "meta": 0
+        },
+        "network": {
+            "id": 569,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Iron Nugget",
+            "en": "Iron Nugget",
+            "tr": "Demir Parçası"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:leather",
+            "dictionary": "minecraft:leather"
+        },
+        "legacy": {
+            "id": 334,
+            "meta": 0
+        },
+        "network": {
+            "id": 381,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Leather",
+            "en": "Leather",
+            "tr": "Deri"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:magma_cream",
+            "dictionary": "minecraft:magma_cream"
+        },
+        "legacy": {
+            "id": 378,
+            "meta": 0
+        },
+        "network": {
+            "id": 430,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Magma Cream",
+            "en": "Magma Cream",
+            "tr": "Magma Kremi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:nautilus_shell",
+            "dictionary": "minecraft:nautilus_shell"
+        },
+        "legacy": {
+            "id": 465,
+            "meta": 0
+        },
+        "network": {
+            "id": 570,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Nautilus Shell",
+            "en": "Nautilus Shell",
+            "tr": "Notilus Kabuğu"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:netherbrick",
+            "dictionary": "minecraft:netherbrick"
+        },
+        "legacy": {
+            "id": 405,
+            "meta": 0
+        },
+        "network": {
+            "id": 523,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Nether Brick",
+            "en": "Nether Brick",
+            "tr": "Nether Tuğlası"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:quartz",
+            "dictionary": "minecraft:quartz"
+        },
+        "legacy": {
+            "id": 406,
+            "meta": 0
+        },
+        "network": {
+            "id": 524,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Nether Quartz",
+            "en": "Nether Quartz",
+            "tr": "Nether Kuvarsı"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:netherstar",
+            "dictionary": "minecraft:nether_star"
+        },
+        "legacy": {
+            "id": 399,
+            "meta": 0
+        },
+        "network": {
+            "id": 518,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Nether Star",
+            "en": "Nether Star",
+            "tr": "Nether Yıldızı"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:paper",
+            "dictionary": "minecraft:paper"
+        },
+        "legacy": {
+            "id": 339,
+            "meta": 0
+        },
+        "network": {
+            "id": 386,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Paper",
+            "en": "Paper",
+            "tr": "Kağıt"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:prismarine_crystals",
+            "dictionary": "minecraft:prismarine_crystals"
+        },
+        "legacy": {
+            "id": 422,
+            "meta": 0
+        },
+        "network": {
+            "id": 549,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Prismarine Crystals",
+            "en": "Prismarine Crystals",
+            "tr": "Prismarine Kristali"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:prismarine_shard",
+            "dictionary": "minecraft:prismarine_shard"
+        },
+        "legacy": {
+            "id": 409,
+            "meta": 0
+        },
+        "network": {
+            "id": 565,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Prismarine Shard",
+            "en": "Prismarine Shard",
+            "tr": "Prismarine Parçacığı"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:rabbit_foot",
+            "dictionary": "minecraft:rabbit_foot"
+        },
+        "legacy": {
+            "id": 414,
+            "meta": 0
+        },
+        "network": {
+            "id": 528,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Rabbit's Foot",
+            "en": "Rabbit's Foot",
+            "tr": "Tavşan Ayağı"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:rabbit_hide",
+            "dictionary": "minecraft:rabbit_hide"
+        },
+        "legacy": {
+            "id": 415,
+            "meta": 0
+        },
+        "network": {
+            "id": 529,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Rabbit Hide",
+            "en": "Rabbit Hide",
+            "tr": "Tavşan Postu"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:shulker_shell",
+            "dictionary": "minecraft:shulker_shell"
+        },
+        "legacy": {
+            "id": 445,
+            "meta": 0
+        },
+        "network": {
+            "id": 566,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Shulker Shell",
+            "en": "Shulker Shell",
+            "tr": "Shulker Kabuğu"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:slime_ball",
+            "dictionary": "minecraft:slime_ball"
+        },
+        "legacy": {
+            "id": 341,
+            "meta": 0
+        },
+        "network": {
+            "id": 388,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Slimeball",
+            "en": "Slimeball",
+            "tr": "Balçık Topu"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:sugar",
+            "dictionary": "minecraft:sugar"
+        },
+        "legacy": {
+            "id": 353,
+            "meta": 0
+        },
+        "network": {
+            "id": 416,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Sugar",
+            "en": "Sugar",
+            "tr": "Şeker"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:turtle_shell_piece",
+            "dictionary": "minecraft:scute"
+        },
+        "legacy": {
+            "id": 468,
+            "meta": 0
+        },
+        "network": {
+            "id": 572,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Scute",
+            "en": "Scute",
+            "tr": "Sırt Pulu"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:wheat",
+            "dictionary": "minecraft:wheat"
+        },
+        "legacy": {
+            "id": 296,
+            "meta": 0
+        },
+        "network": {
+            "id": 334,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Wheat",
+            "en": "Wheat",
+            "tr": "Buğday"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:acacia_door",
+            "dictionary": "minecraft:acacia_door"
+        },
+        "legacy": {
+            "id": 430,
+            "meta": 0
+        },
+        "network": {
+            "id": 556,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Acacia Door",
+            "en": "Acacia Door",
+            "tr": "Akasya Kapı"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:birch_door",
+            "dictionary": "minecraft:birch_door"
+        },
+        "legacy": {
+            "id": 428,
+            "meta": 0
+        },
+        "network": {
+            "id": 554,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Birch Door",
+            "en": "Birch Door",
+            "tr": "Huş Ağacı Kapı"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:brewing_stand",
+            "dictionary": "minecraft:brewing_stand"
+        },
+        "legacy": {
+            "id": 379,
+            "meta": 0
+        },
+        "network": {
+            "id": 431,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Brewing Stand",
+            "en": "Brewing Stand",
+            "tr": "Simya Standı"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:cake",
+            "dictionary": "minecraft:cake"
+        },
+        "legacy": {
+            "id": 354,
+            "meta": 0
+        },
+        "network": {
+            "id": 417,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Cake",
+            "en": "Cake",
+            "tr": "Kek"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:comparator",
+            "dictionary": "minecraft:comparator"
+        },
+        "legacy": {
+            "id": 404,
+            "meta": 0
+        },
+        "network": {
+            "id": 522,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Redstone Comparator",
+            "en": "Redstone Comparator",
+            "tr": "Redstone Karşılaştırıcı"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:dark_oak_door",
+            "dictionary": "minecraft:dark_oak_door"
+        },
+        "legacy": {
+            "id": 431,
+            "meta": 0
+        },
+        "network": {
+            "id": 557,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Dark Oak Door",
+            "en": "Dark Oak Door",
+            "tr": "Koyu Meşe Kapı"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:flower_pot",
+            "dictionary": "minecraft:flower_pot"
+        },
+        "legacy": {
+            "id": 390,
+            "meta": 0
+        },
+        "network": {
+            "id": 514,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Flower Pot",
+            "en": "Flower Pot",
+            "tr": "Çiçek Saksısı"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:hopper",
+            "dictionary": "minecraft:hopper"
+        },
+        "legacy": {
+            "id": 410,
+            "meta": 0
+        },
+        "network": {
+            "id": 527,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Hopper",
+            "en": "Hopper",
+            "tr": "Huni"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:iron_door",
+            "dictionary": "minecraft:iron_door"
+        },
+        "legacy": {
+            "id": 330,
+            "meta": 0
+        },
+        "network": {
+            "id": 372,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Iron Door",
+            "en": "Iron Door",
+            "tr": "Demir Kapı"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:frame",
+            "dictionary": "minecraft:frame"
+        },
+        "legacy": {
+            "id": 389,
+            "meta": 0
+        },
+        "network": {
+            "id": 513,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Item Frame",
+            "en": "Item Frame",
+            "tr": "Eşya Çerçevesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:jungle_door",
+            "dictionary": "minecraft:jungle_door"
+        },
+        "legacy": {
+            "id": 429,
+            "meta": 0
+        },
+        "network": {
+            "id": 555,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Jungle Door",
+            "en": "Jungle Door",
+            "tr": "Büyük Orman Kapısı"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:nether_wart",
+            "dictionary": "minecraft:nether_wart"
+        },
+        "legacy": {
+            "id": 372,
+            "meta": 0
+        },
+        "network": {
+            "id": 294,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Nether Wart",
+            "en": "Nether Wart",
+            "tr": "Nether Wart"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:wooden_door",
+            "dictionary": "minecraft:wooden_door"
+        },
+        "legacy": {
+            "id": 324,
+            "meta": 0
+        },
+        "network": {
+            "id": 359,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Oak Door",
+            "en": "Oak Door",
+            "tr": "Meşe Kapı"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:repeater",
+            "dictionary": "minecraft:repeater"
+        },
+        "legacy": {
+            "id": 356,
+            "meta": 0
+        },
+        "network": {
+            "id": 419,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Redstone Repeater",
+            "en": "Redstone Repeater",
+            "tr": "Redstone Yineleyici"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:spruce_door",
+            "dictionary": "minecraft:spruce_door"
+        },
+        "legacy": {
+            "id": 427,
+            "meta": 0
+        },
+        "network": {
+            "id": 553,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Spruce Door",
+            "en": "Spruce Door",
+            "tr": "Çam Kapı"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:reeds",
+            "dictionary": "minecraft:sugar_cane"
+        },
+        "legacy": {
+            "id": 338,
+            "meta": 0
+        },
+        "network": {
+            "id": 385,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Sugarcane",
+            "en": "Sugar Canes",
+            "tr": "Şeker Kamışları"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bucket",
+            "dictionary": "minecraft:water_bucket"
+        },
+        "legacy": {
+            "id": 325,
+            "meta": 8
+        },
+        "network": {
+            "id": 362,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Water Bucket",
+            "en": "Water Bucket",
+            "tr": "Su Kovası"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bucket",
+            "dictionary": "minecraft:water_bucket"
+        },
+        "legacy": {
+            "id": 325,
+            "meta": 8
+        },
+        "network": {
+            "id": 362,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Water Bucket",
+            "en": "Water Bucket",
+            "tr": "Su Kovası"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bucket",
+            "dictionary": "minecraft:lava_bucket"
+        },
+        "legacy": {
+            "id": 325,
+            "meta": 10
+        },
+        "network": {
+            "id": 363,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Lava Bucket",
+            "en": "Lava Bucket",
+            "tr": "Lav Kovası"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bucket",
+            "dictionary": "minecraft:lava_bucket"
+        },
+        "legacy": {
+            "id": 325,
+            "meta": 10
+        },
+        "network": {
+            "id": 363,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Lava Bucket",
+            "en": "Lava Bucket",
+            "tr": "Lav Kovası"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:melon",
+            "dictionary": "minecraft:melon_slice"
+        },
+        "legacy": {
+            "id": 360,
+            "meta": 0
+        },
+        "network": {
+            "id": 272,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Melon",
+            "en": "Melon",
+            "tr": "Karpuz"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:melon_seeds",
+            "dictionary": "minecraft:melon_seeds"
+        },
+        "legacy": {
+            "id": 362,
+            "meta": 0
+        },
+        "network": {
+            "id": 293,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Melon Seeds",
+            "en": "Melon Seeds",
+            "tr": "Karpuz Tohumu"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bucket",
+            "dictionary": "minecraft:milk_bucket"
+        },
+        "legacy": {
+            "id": 325,
+            "meta": 1
+        },
+        "network": {
+            "id": 361,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Milk Bucket",
+            "en": "Milk",
+            "tr": "Süt"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:minecart",
+            "dictionary": "minecraft:minecart"
+        },
+        "legacy": {
+            "id": 328,
+            "meta": 0
+        },
+        "network": {
+            "id": 370,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Minecart",
+            "en": "Minecart",
+            "tr": "Maden arabası"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:mushroom_stew",
+            "dictionary": "minecraft:mushroom_stew"
+        },
+        "legacy": {
+            "id": 282,
+            "meta": 0
+        },
+        "network": {
+            "id": 260,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Mushroom Stew",
+            "en": "Mushroom Stew",
+            "tr": "Mantar Yemeği"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:painting",
+            "dictionary": "minecraft:painting"
+        },
+        "legacy": {
+            "id": 321,
+            "meta": 0
+        },
+        "network": {
+            "id": 357,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Painting",
+            "en": "Painting",
+            "tr": "Tuval"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:poisonous_potato",
+            "dictionary": "minecraft:poisonous_potato"
+        },
+        "legacy": {
+            "id": 394,
+            "meta": 0
+        },
+        "network": {
+            "id": 282,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Poisonous Potato",
+            "en": "Poisonous Potato",
+            "tr": "Zehirli Patates"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potato",
+            "dictionary": "minecraft:potato"
+        },
+        "legacy": {
+            "id": 392,
+            "meta": 0
+        },
+        "network": {
+            "id": 280,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Potato",
+            "en": "Potato",
+            "tr": "Patates"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:pufferfish",
+            "dictionary": "minecraft:pufferfish"
+        },
+        "legacy": {
+            "id": 462,
+            "meta": 0
+        },
+        "network": {
+            "id": 267,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Pufferfish",
+            "en": "Pufferfish",
+            "tr": "Kirpi Balığı"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:pumpkin_pie",
+            "dictionary": "minecraft:pumpkin_pie"
+        },
+        "legacy": {
+            "id": 400,
+            "meta": 0
+        },
+        "network": {
+            "id": 284,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Pumpkin Pie",
+            "en": "Pumpkin Pie",
+            "tr": "Balkabağı Turtası"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:pumpkin_seeds",
+            "dictionary": "minecraft:pumpkin_seeds"
+        },
+        "legacy": {
+            "id": 361,
+            "meta": 0
+        },
+        "network": {
+            "id": 292,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Pumpkin Seeds",
+            "en": "Pumpkin Seeds",
+            "tr": "Balkabağı Tohumları"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:rabbit_stew",
+            "dictionary": "minecraft:rabbit_stew"
+        },
+        "legacy": {
+            "id": 413,
+            "meta": 0
+        },
+        "network": {
+            "id": 290,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Rabbit Stew",
+            "en": "Rabbit Stew",
+            "tr": "Tavşan Yemeği"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:beef",
+            "dictionary": "minecraft:beef"
+        },
+        "legacy": {
+            "id": 363,
+            "meta": 0
+        },
+        "network": {
+            "id": 273,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Raw Beef",
+            "en": "Raw Beef",
+            "tr": "Çiğ Sığır Eti"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:chicken",
+            "dictionary": "minecraft:chicken"
+        },
+        "legacy": {
+            "id": 365,
+            "meta": 0
+        },
+        "network": {
+            "id": 275,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Raw Chicken",
+            "en": "Raw Chicken",
+            "tr": "Çiğ Tavuk"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:fish",
+            "dictionary": "minecraft:cod"
+        },
+        "legacy": {
+            "id": 349,
+            "meta": 0
+        },
+        "network": {
+            "id": 264,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Raw Fish",
+            "en": "Raw Cod",
+            "tr": "Çiğ Morina"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:muttonraw",
+            "dictionary": "minecraft:mutton"
+        },
+        "legacy": {
+            "id": 423,
+            "meta": 0
+        },
+        "network": {
+            "id": 550,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Raw Mutton",
+            "en": "Raw Mutton",
+            "tr": "Çiğ Koyun Eti"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:porkchop",
+            "dictionary": "minecraft:porkchop"
+        },
+        "legacy": {
+            "id": 319,
+            "meta": 0
+        },
+        "network": {
+            "id": 262,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Raw Porkchop",
+            "en": "Raw Porkchop",
+            "tr": "Çiğ Domuz Pirzolası"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:rabbit",
+            "dictionary": "minecraft:rabbit"
+        },
+        "legacy": {
+            "id": 411,
+            "meta": 0
+        },
+        "network": {
+            "id": 288,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Raw Rabbit",
+            "en": "Raw Rabbit",
+            "tr": "Çiğ Tavşan Eti"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:salmon",
+            "dictionary": "minecraft:salmon"
+        },
+        "legacy": {
+            "id": 460,
+            "meta": 0
+        },
+        "network": {
+            "id": 265,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Raw Salmon",
+            "en": "Raw Salmon",
+            "tr": "Çiğ Somon Balığı"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:record_13",
+            "dictionary": "minecraft:music_disc_13"
+        },
+        "legacy": {
+            "id": 500,
+            "meta": 0
+        },
+        "network": {
+            "id": 534,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Record 13",
+            "en": "Music Disc",
+            "tr": "Müzik Diski"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:record_cat",
+            "dictionary": "minecraft:music_disc_cat"
+        },
+        "legacy": {
+            "id": 501,
+            "meta": 0
+        },
+        "network": {
+            "id": 535,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Record Cat",
+            "en": "Music Disc",
+            "tr": "Müzik Diski"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:record_blocks",
+            "dictionary": "minecraft:music_disc_blocks"
+        },
+        "legacy": {
+            "id": 502,
+            "meta": 0
+        },
+        "network": {
+            "id": 536,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Record Blocks",
+            "en": "Music Disc",
+            "tr": "Müzik Diski"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:record_chirp",
+            "dictionary": "minecraft:music_disc_chirp"
+        },
+        "legacy": {
+            "id": 503,
+            "meta": 0
+        },
+        "network": {
+            "id": 537,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Record Chirp",
+            "en": "Music Disc",
+            "tr": "Müzik Diski"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:record_far",
+            "dictionary": "minecraft:music_disc_far"
+        },
+        "legacy": {
+            "id": 504,
+            "meta": 0
+        },
+        "network": {
+            "id": 538,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Record Far",
+            "en": "Music Disc",
+            "tr": "Müzik Diski"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:record_mall",
+            "dictionary": "minecraft:music_disc_mall"
+        },
+        "legacy": {
+            "id": 505,
+            "meta": 0
+        },
+        "network": {
+            "id": 539,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Record Mall",
+            "en": "Music Disc",
+            "tr": "Müzik Diski"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:record_mellohi",
+            "dictionary": "minecraft:music_disc_mellohi"
+        },
+        "legacy": {
+            "id": 506,
+            "meta": 0
+        },
+        "network": {
+            "id": 540,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Record Mellohi",
+            "en": "Music Disc",
+            "tr": "Müzik Diski"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:record_stal",
+            "dictionary": "minecraft:music_disc_stal"
+        },
+        "legacy": {
+            "id": 507,
+            "meta": 0
+        },
+        "network": {
+            "id": 541,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Record Stal",
+            "en": "Music Disc",
+            "tr": "Müzik Diski"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:record_strad",
+            "dictionary": "minecraft:music_disc_strad"
+        },
+        "legacy": {
+            "id": 508,
+            "meta": 0
+        },
+        "network": {
+            "id": 542,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Record Strad",
+            "en": "Music Disc",
+            "tr": "Müzik Diski"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:record_ward",
+            "dictionary": "minecraft:music_disc_ward"
+        },
+        "legacy": {
+            "id": 509,
+            "meta": 0
+        },
+        "network": {
+            "id": 543,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Record Ward",
+            "en": "Music Disc",
+            "tr": "Müzik Diski"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:record_11",
+            "dictionary": "minecraft:music_disc_11"
+        },
+        "legacy": {
+            "id": 510,
+            "meta": 0
+        },
+        "network": {
+            "id": 544,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Record 11",
+            "en": "Music Disc",
+            "tr": "Müzik Diski"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:record_wait",
+            "dictionary": "minecraft:music_disc_wait"
+        },
+        "legacy": {
+            "id": 511,
+            "meta": 0
+        },
+        "network": {
+            "id": 545,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Record Wait",
+            "en": "Music Disc",
+            "tr": "Müzik Diski"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:redstone",
+            "dictionary": "minecraft:redstone"
+        },
+        "legacy": {
+            "id": 331,
+            "meta": 0
+        },
+        "network": {
+            "id": 373,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Redstone",
+            "en": "Redstone Dust",
+            "tr": "Redstone Tozu"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:rotten_flesh",
+            "dictionary": "minecraft:rotten_flesh"
+        },
+        "legacy": {
+            "id": 367,
+            "meta": 0
+        },
+        "network": {
+            "id": 277,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Rotten Flesh",
+            "en": "Rotten Flesh",
+            "tr": "Çürük et"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:shears",
+            "dictionary": "minecraft:shears"
+        },
+        "legacy": {
+            "id": 359,
+            "meta": 0
+        },
+        "network": {
+            "id": 421,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Shears",
+            "en": "Shears",
+            "tr": "Makas"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:sign",
+            "dictionary": "minecraft:oak_sign"
+        },
+        "legacy": {
+            "id": 323,
+            "meta": 0
+        },
+        "network": {
+            "id": 358,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Oak Sign",
+            "en": "Oak Sign",
+            "tr": "Meşe Levha"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:spruce_sign",
+            "dictionary": "minecraft:spruce_sign"
+        },
+        "legacy": {
+            "id": 472,
+            "meta": 0
+        },
+        "network": {
+            "id": 576,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Spruce Sign",
+            "en": "Spruce Sign",
+            "tr": "Çam Levha"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:birch_sign",
+            "dictionary": "minecraft:birch_sign"
+        },
+        "legacy": {
+            "id": 473,
+            "meta": 0
+        },
+        "network": {
+            "id": 577,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Birch Sign",
+            "en": "Birch Sign",
+            "tr": "Huş Ağacı Levha"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:jungle_sign",
+            "dictionary": "minecraft:jungle_sign"
+        },
+        "legacy": {
+            "id": 474,
+            "meta": 0
+        },
+        "network": {
+            "id": 578,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Jungle Sign",
+            "en": "Jungle Sign",
+            "tr": "Büyük Orman Levha"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:acacia_sign",
+            "dictionary": "minecraft:acacia_sign"
+        },
+        "legacy": {
+            "id": 475,
+            "meta": 0
+        },
+        "network": {
+            "id": 579,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Acacia Sign",
+            "en": "Acacia Sign",
+            "tr": "Akasya Levha"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:darkoak_sign",
+            "dictionary": "minecraft:dark_oak_sign"
+        },
+        "legacy": {
+            "id": 476,
+            "meta": 0
+        },
+        "network": {
+            "id": 580,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Dark Oak Sign",
+            "en": "Dark Oak Sign",
+            "tr": "Koyu Meşe Levha"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:snowball",
+            "dictionary": "minecraft:snowball"
+        },
+        "legacy": {
+            "id": 332,
+            "meta": 0
+        },
+        "network": {
+            "id": 374,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Snowball",
+            "en": "Snowball",
+            "tr": "Kartopu"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:spider_eye",
+            "dictionary": "minecraft:spider_eye"
+        },
+        "legacy": {
+            "id": 375,
+            "meta": 0
+        },
+        "network": {
+            "id": 278,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Spider Eye",
+            "en": "Spider Eye",
+            "tr": "Örümcek gözü"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:cooked_beef",
+            "dictionary": "minecraft:cooked_beef"
+        },
+        "legacy": {
+            "id": 364,
+            "meta": 0
+        },
+        "network": {
+            "id": 274,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Steak",
+            "en": "Cooked Beef",
+            "tr": "Pişmiş Biftek"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:stick",
+            "dictionary": "minecraft:stick"
+        },
+        "legacy": {
+            "id": 280,
+            "meta": 0
+        },
+        "network": {
+            "id": 320,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Stick",
+            "en": "Stick",
+            "tr": "Sopa"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:string",
+            "dictionary": "minecraft:string"
+        },
+        "legacy": {
+            "id": 287,
+            "meta": 0
+        },
+        "network": {
+            "id": 326,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "String",
+            "en": "String",
+            "tr": "İp"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:sweet_berries",
+            "dictionary": "minecraft:sweet_berries"
+        },
+        "legacy": {
+            "id": 477,
+            "meta": 0
+        },
+        "network": {
+            "id": 287,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Sweet Berries",
+            "en": "Sweet Berries",
+            "tr": "Tatlı Meyveler"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:totem",
+            "dictionary": "minecraft:totem_of_undying"
+        },
+        "legacy": {
+            "id": 450,
+            "meta": 0
+        },
+        "network": {
+            "id": 568,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Totem of Undying",
+            "en": "Totem of Undying",
+            "tr": "Ölümsüzlük Totemi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:wheat_seeds",
+            "dictionary": "minecraft:wheat_seeds"
+        },
+        "legacy": {
+            "id": 295,
+            "meta": 0
+        },
+        "network": {
+            "id": 291,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Wheat Seeds",
+            "en": "Seeds",
+            "tr": "Tohumlar"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:writable_book",
+            "dictionary": "minecraft:writable_book"
+        },
+        "legacy": {
+            "id": 386,
+            "meta": 0
+        },
+        "network": {
+            "id": 510,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Book & Quill",
+            "en": "Book & Quill",
+            "tr": "Kitap ve Tüy"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:written_book",
+            "dictionary": "minecraft:written_book"
+        },
+        "legacy": {
+            "id": 387,
+            "meta": 0
+        },
+        "network": {
+            "id": 511,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Written Book",
+            "en": "Written Book",
+            "tr": "Yazılı Kitap"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:skull",
+            "dictionary": "minecraft:skull"
+        },
+        "legacy": {
+            "id": 397,
+            "meta": 0
+        },
+        "network": {
+            "id": 516,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Skeleton Skull",
+            "en": "Skeleton Skull",
+            "tr": "İskelet Kafatası"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:skull",
+            "dictionary": "minecraft:skull"
+        },
+        "legacy": {
+            "id": 397,
+            "meta": 1
+        },
+        "network": {
+            "id": 516,
+            "meta": 1
+        },
+        "name": {
+            "pmmp": "Wither Skeleton Skull",
+            "en": "Skeleton Skull",
+            "tr": "İskelet Kafatası"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:skull",
+            "dictionary": "minecraft:skull"
+        },
+        "legacy": {
+            "id": 397,
+            "meta": 2
+        },
+        "network": {
+            "id": 516,
+            "meta": 2
+        },
+        "name": {
+            "pmmp": "Zombie Head",
+            "en": "Skeleton Skull",
+            "tr": "İskelet Kafatası"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:skull",
+            "dictionary": "minecraft:skull"
+        },
+        "legacy": {
+            "id": 397,
+            "meta": 3
+        },
+        "network": {
+            "id": 516,
+            "meta": 3
+        },
+        "name": {
+            "pmmp": "Player Head",
+            "en": "Skeleton Skull",
+            "tr": "İskelet Kafatası"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:skull",
+            "dictionary": "minecraft:skull"
+        },
+        "legacy": {
+            "id": 397,
+            "meta": 4
+        },
+        "network": {
+            "id": 516,
+            "meta": 4
+        },
+        "name": {
+            "pmmp": "Creeper Head",
+            "en": "Skeleton Skull",
+            "tr": "İskelet Kafatası"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:skull",
+            "dictionary": "minecraft:skull"
+        },
+        "legacy": {
+            "id": 397,
+            "meta": 5
+        },
+        "network": {
+            "id": 516,
+            "meta": 5
+        },
+        "name": {
+            "pmmp": "Dragon Head",
+            "en": "Skeleton Skull",
+            "tr": "İskelet Kafatası"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:dye",
+            "dictionary": "minecraft:white_dye"
+        },
+        "legacy": {
+            "id": 351,
+            "meta": 19
+        },
+        "network": {
+            "id": 410,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "White Dye",
+            "en": "White Dye",
+            "tr": "Beyaz Boya"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bed",
+            "dictionary": "minecraft:bed"
+        },
+        "legacy": {
+            "id": 355,
+            "meta": 0
+        },
+        "network": {
+            "id": 418,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "White Bed",
+            "en": "White Bed",
+            "tr": "Beyaz Yatak"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:banner",
+            "dictionary": "minecraft:banner"
+        },
+        "legacy": {
+            "id": 446,
+            "meta": 15
+        },
+        "network": {
+            "id": 567,
+            "meta": 15
+        },
+        "name": {
+            "pmmp": "Banner",
+            "en": "Black Banner",
+            "tr": "Siyah Flama"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:dye",
+            "dictionary": "minecraft:orange_dye"
+        },
+        "legacy": {
+            "id": 351,
+            "meta": 14
+        },
+        "network": {
+            "id": 409,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Orange Dye",
+            "en": "Orange Dye",
+            "tr": "Turuncu Boya"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bed",
+            "dictionary": "minecraft:bed"
+        },
+        "legacy": {
+            "id": 355,
+            "meta": 1
+        },
+        "network": {
+            "id": 418,
+            "meta": 1
+        },
+        "name": {
+            "pmmp": "Orange Bed",
+            "en": "White Bed",
+            "tr": "Beyaz Yatak"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:banner",
+            "dictionary": "minecraft:banner"
+        },
+        "legacy": {
+            "id": 446,
+            "meta": 14
+        },
+        "network": {
+            "id": 567,
+            "meta": 14
+        },
+        "name": {
+            "pmmp": "Banner",
+            "en": "Black Banner",
+            "tr": "Siyah Flama"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:dye",
+            "dictionary": "minecraft:magenta_dye"
+        },
+        "legacy": {
+            "id": 351,
+            "meta": 13
+        },
+        "network": {
+            "id": 408,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Magenta Dye",
+            "en": "Magenta Dye",
+            "tr": "Eflatun Boya"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bed",
+            "dictionary": "minecraft:bed"
+        },
+        "legacy": {
+            "id": 355,
+            "meta": 2
+        },
+        "network": {
+            "id": 418,
+            "meta": 2
+        },
+        "name": {
+            "pmmp": "Magenta Bed",
+            "en": "White Bed",
+            "tr": "Beyaz Yatak"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:banner",
+            "dictionary": "minecraft:banner"
+        },
+        "legacy": {
+            "id": 446,
+            "meta": 13
+        },
+        "network": {
+            "id": 567,
+            "meta": 13
+        },
+        "name": {
+            "pmmp": "Banner",
+            "en": "Black Banner",
+            "tr": "Siyah Flama"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:dye",
+            "dictionary": "minecraft:light_blue_dye"
+        },
+        "legacy": {
+            "id": 351,
+            "meta": 12
+        },
+        "network": {
+            "id": 407,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Light Blue Dye",
+            "en": "Light Blue Dye",
+            "tr": "Açık Mavi Boya"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bed",
+            "dictionary": "minecraft:bed"
+        },
+        "legacy": {
+            "id": 355,
+            "meta": 3
+        },
+        "network": {
+            "id": 418,
+            "meta": 3
+        },
+        "name": {
+            "pmmp": "Light Blue Bed",
+            "en": "White Bed",
+            "tr": "Beyaz Yatak"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:banner",
+            "dictionary": "minecraft:banner"
+        },
+        "legacy": {
+            "id": 446,
+            "meta": 12
+        },
+        "network": {
+            "id": 567,
+            "meta": 12
+        },
+        "name": {
+            "pmmp": "Banner",
+            "en": "Black Banner",
+            "tr": "Siyah Flama"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:dye",
+            "dictionary": "minecraft:yellow_dye"
+        },
+        "legacy": {
+            "id": 351,
+            "meta": 11
+        },
+        "network": {
+            "id": 406,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Yellow Dye",
+            "en": "Yellow Dye",
+            "tr": "Sarı Boya"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bed",
+            "dictionary": "minecraft:bed"
+        },
+        "legacy": {
+            "id": 355,
+            "meta": 4
+        },
+        "network": {
+            "id": 418,
+            "meta": 4
+        },
+        "name": {
+            "pmmp": "Yellow Bed",
+            "en": "White Bed",
+            "tr": "Beyaz Yatak"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:banner",
+            "dictionary": "minecraft:banner"
+        },
+        "legacy": {
+            "id": 446,
+            "meta": 11
+        },
+        "network": {
+            "id": 567,
+            "meta": 11
+        },
+        "name": {
+            "pmmp": "Banner",
+            "en": "Black Banner",
+            "tr": "Siyah Flama"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:dye",
+            "dictionary": "minecraft:lime_dye"
+        },
+        "legacy": {
+            "id": 351,
+            "meta": 10
+        },
+        "network": {
+            "id": 405,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Lime Dye",
+            "en": "Lime Dye",
+            "tr": "Açık Yeşil Boya"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bed",
+            "dictionary": "minecraft:bed"
+        },
+        "legacy": {
+            "id": 355,
+            "meta": 5
+        },
+        "network": {
+            "id": 418,
+            "meta": 5
+        },
+        "name": {
+            "pmmp": "Lime Bed",
+            "en": "White Bed",
+            "tr": "Beyaz Yatak"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:banner",
+            "dictionary": "minecraft:banner"
+        },
+        "legacy": {
+            "id": 446,
+            "meta": 10
+        },
+        "network": {
+            "id": 567,
+            "meta": 10
+        },
+        "name": {
+            "pmmp": "Banner",
+            "en": "Black Banner",
+            "tr": "Siyah Flama"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:dye",
+            "dictionary": "minecraft:pink_dye"
+        },
+        "legacy": {
+            "id": 351,
+            "meta": 9
+        },
+        "network": {
+            "id": 404,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Pink Dye",
+            "en": "Pink Dye",
+            "tr": "Pembe Boya"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bed",
+            "dictionary": "minecraft:bed"
+        },
+        "legacy": {
+            "id": 355,
+            "meta": 6
+        },
+        "network": {
+            "id": 418,
+            "meta": 6
+        },
+        "name": {
+            "pmmp": "Pink Bed",
+            "en": "White Bed",
+            "tr": "Beyaz Yatak"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:banner",
+            "dictionary": "minecraft:banner"
+        },
+        "legacy": {
+            "id": 446,
+            "meta": 9
+        },
+        "network": {
+            "id": 567,
+            "meta": 9
+        },
+        "name": {
+            "pmmp": "Banner",
+            "en": "Black Banner",
+            "tr": "Siyah Flama"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:dye",
+            "dictionary": "minecraft:gray_dye"
+        },
+        "legacy": {
+            "id": 351,
+            "meta": 8
+        },
+        "network": {
+            "id": 403,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Gray Dye",
+            "en": "Gray Dye",
+            "tr": "Gri Boya"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bed",
+            "dictionary": "minecraft:bed"
+        },
+        "legacy": {
+            "id": 355,
+            "meta": 7
+        },
+        "network": {
+            "id": 418,
+            "meta": 7
+        },
+        "name": {
+            "pmmp": "Gray Bed",
+            "en": "White Bed",
+            "tr": "Beyaz Yatak"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:banner",
+            "dictionary": "minecraft:banner"
+        },
+        "legacy": {
+            "id": 446,
+            "meta": 8
+        },
+        "network": {
+            "id": 567,
+            "meta": 8
+        },
+        "name": {
+            "pmmp": "Banner",
+            "en": "Black Banner",
+            "tr": "Siyah Flama"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:dye",
+            "dictionary": "minecraft:light_gray_dye"
+        },
+        "legacy": {
+            "id": 351,
+            "meta": 7
+        },
+        "network": {
+            "id": 402,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Light Gray Dye",
+            "en": "Light Gray Dye",
+            "tr": "Açık Gri Boya"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bed",
+            "dictionary": "minecraft:bed"
+        },
+        "legacy": {
+            "id": 355,
+            "meta": 8
+        },
+        "network": {
+            "id": 418,
+            "meta": 8
+        },
+        "name": {
+            "pmmp": "Light Gray Bed",
+            "en": "White Bed",
+            "tr": "Beyaz Yatak"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:banner",
+            "dictionary": "minecraft:banner"
+        },
+        "legacy": {
+            "id": 446,
+            "meta": 7
+        },
+        "network": {
+            "id": 567,
+            "meta": 7
+        },
+        "name": {
+            "pmmp": "Banner",
+            "en": "Black Banner",
+            "tr": "Siyah Flama"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:dye",
+            "dictionary": "minecraft:cyan_dye"
+        },
+        "legacy": {
+            "id": 351,
+            "meta": 6
+        },
+        "network": {
+            "id": 401,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Cyan Dye",
+            "en": "Cyan Dye",
+            "tr": "Camgöbeği Boya"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bed",
+            "dictionary": "minecraft:bed"
+        },
+        "legacy": {
+            "id": 355,
+            "meta": 9
+        },
+        "network": {
+            "id": 418,
+            "meta": 9
+        },
+        "name": {
+            "pmmp": "Cyan Bed",
+            "en": "White Bed",
+            "tr": "Beyaz Yatak"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:banner",
+            "dictionary": "minecraft:banner"
+        },
+        "legacy": {
+            "id": 446,
+            "meta": 6
+        },
+        "network": {
+            "id": 567,
+            "meta": 6
+        },
+        "name": {
+            "pmmp": "Banner",
+            "en": "Black Banner",
+            "tr": "Siyah Flama"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:dye",
+            "dictionary": "minecraft:purple_dye"
+        },
+        "legacy": {
+            "id": 351,
+            "meta": 5
+        },
+        "network": {
+            "id": 400,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Purple Dye",
+            "en": "Purple Dye",
+            "tr": "Mor Boya"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bed",
+            "dictionary": "minecraft:bed"
+        },
+        "legacy": {
+            "id": 355,
+            "meta": 10
+        },
+        "network": {
+            "id": 418,
+            "meta": 10
+        },
+        "name": {
+            "pmmp": "Purple Bed",
+            "en": "White Bed",
+            "tr": "Beyaz Yatak"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:banner",
+            "dictionary": "minecraft:banner"
+        },
+        "legacy": {
+            "id": 446,
+            "meta": 5
+        },
+        "network": {
+            "id": 567,
+            "meta": 5
+        },
+        "name": {
+            "pmmp": "Banner",
+            "en": "Black Banner",
+            "tr": "Siyah Flama"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:dye",
+            "dictionary": "minecraft:blue_dye"
+        },
+        "legacy": {
+            "id": 351,
+            "meta": 18
+        },
+        "network": {
+            "id": 399,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Blue Dye",
+            "en": "Blue Dye",
+            "tr": "Mavi Boya"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bed",
+            "dictionary": "minecraft:bed"
+        },
+        "legacy": {
+            "id": 355,
+            "meta": 11
+        },
+        "network": {
+            "id": 418,
+            "meta": 11
+        },
+        "name": {
+            "pmmp": "Blue Bed",
+            "en": "White Bed",
+            "tr": "Beyaz Yatak"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:banner",
+            "dictionary": "minecraft:banner"
+        },
+        "legacy": {
+            "id": 446,
+            "meta": 4
+        },
+        "network": {
+            "id": 567,
+            "meta": 4
+        },
+        "name": {
+            "pmmp": "Banner",
+            "en": "Black Banner",
+            "tr": "Siyah Flama"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:dye",
+            "dictionary": "minecraft:brown_dye"
+        },
+        "legacy": {
+            "id": 351,
+            "meta": 17
+        },
+        "network": {
+            "id": 398,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Brown Dye",
+            "en": "Brown Dye",
+            "tr": "Kahverengi Boya"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bed",
+            "dictionary": "minecraft:bed"
+        },
+        "legacy": {
+            "id": 355,
+            "meta": 12
+        },
+        "network": {
+            "id": 418,
+            "meta": 12
+        },
+        "name": {
+            "pmmp": "Brown Bed",
+            "en": "White Bed",
+            "tr": "Beyaz Yatak"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:banner",
+            "dictionary": "minecraft:banner"
+        },
+        "legacy": {
+            "id": 446,
+            "meta": 3
+        },
+        "network": {
+            "id": 567,
+            "meta": 3
+        },
+        "name": {
+            "pmmp": "Banner",
+            "en": "Black Banner",
+            "tr": "Siyah Flama"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:dye",
+            "dictionary": "minecraft:green_dye"
+        },
+        "legacy": {
+            "id": 351,
+            "meta": 2
+        },
+        "network": {
+            "id": 397,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Green Dye",
+            "en": "Green Dye",
+            "tr": "Yeşil Boya"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bed",
+            "dictionary": "minecraft:bed"
+        },
+        "legacy": {
+            "id": 355,
+            "meta": 13
+        },
+        "network": {
+            "id": 418,
+            "meta": 13
+        },
+        "name": {
+            "pmmp": "Green Bed",
+            "en": "White Bed",
+            "tr": "Beyaz Yatak"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:banner",
+            "dictionary": "minecraft:banner"
+        },
+        "legacy": {
+            "id": 446,
+            "meta": 2
+        },
+        "network": {
+            "id": 567,
+            "meta": 2
+        },
+        "name": {
+            "pmmp": "Banner",
+            "en": "Black Banner",
+            "tr": "Siyah Flama"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:dye",
+            "dictionary": "minecraft:red_dye"
+        },
+        "legacy": {
+            "id": 351,
+            "meta": 1
+        },
+        "network": {
+            "id": 396,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Red Dye",
+            "en": "Red Dye",
+            "tr": "Kırmızı Boya"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bed",
+            "dictionary": "minecraft:bed"
+        },
+        "legacy": {
+            "id": 355,
+            "meta": 14
+        },
+        "network": {
+            "id": 418,
+            "meta": 14
+        },
+        "name": {
+            "pmmp": "Red Bed",
+            "en": "White Bed",
+            "tr": "Beyaz Yatak"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:banner",
+            "dictionary": "minecraft:banner"
+        },
+        "legacy": {
+            "id": 446,
+            "meta": 1
+        },
+        "network": {
+            "id": 567,
+            "meta": 1
+        },
+        "name": {
+            "pmmp": "Banner",
+            "en": "Black Banner",
+            "tr": "Siyah Flama"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:dye",
+            "dictionary": "minecraft:black_dye"
+        },
+        "legacy": {
+            "id": 351,
+            "meta": 16
+        },
+        "network": {
+            "id": 395,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Black Dye",
+            "en": "Black Dye",
+            "tr": "Siyah Boya"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:bed",
+            "dictionary": "minecraft:bed"
+        },
+        "legacy": {
+            "id": 355,
+            "meta": 15
+        },
+        "network": {
+            "id": 418,
+            "meta": 15
+        },
+        "name": {
+            "pmmp": "Black Bed",
+            "en": "White Bed",
+            "tr": "Beyaz Yatak"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:banner",
+            "dictionary": "minecraft:banner"
+        },
+        "legacy": {
+            "id": 446,
+            "meta": 0
+        },
+        "network": {
+            "id": 567,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Banner",
+            "en": "Black Banner",
+            "tr": "Siyah Flama"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 0
+        },
+        "network": {
+            "id": 426,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Water Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 0
+        },
+        "network": {
+            "id": 561,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Water Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 1
+        },
+        "network": {
+            "id": 426,
+            "meta": 1
+        },
+        "name": {
+            "pmmp": "Mundane Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 1
+        },
+        "network": {
+            "id": 561,
+            "meta": 1
+        },
+        "name": {
+            "pmmp": "Mundane Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 2
+        },
+        "network": {
+            "id": 426,
+            "meta": 2
+        },
+        "name": {
+            "pmmp": "Long Mundane Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 2
+        },
+        "network": {
+            "id": 561,
+            "meta": 2
+        },
+        "name": {
+            "pmmp": "Long Mundane Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 3
+        },
+        "network": {
+            "id": 426,
+            "meta": 3
+        },
+        "name": {
+            "pmmp": "Thick Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 3
+        },
+        "network": {
+            "id": 561,
+            "meta": 3
+        },
+        "name": {
+            "pmmp": "Thick Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 4
+        },
+        "network": {
+            "id": 426,
+            "meta": 4
+        },
+        "name": {
+            "pmmp": "Awkward Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 4
+        },
+        "network": {
+            "id": 561,
+            "meta": 4
+        },
+        "name": {
+            "pmmp": "Awkward Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 5
+        },
+        "network": {
+            "id": 426,
+            "meta": 5
+        },
+        "name": {
+            "pmmp": "Night Vision Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 5
+        },
+        "network": {
+            "id": 561,
+            "meta": 5
+        },
+        "name": {
+            "pmmp": "Night Vision Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 6
+        },
+        "network": {
+            "id": 426,
+            "meta": 6
+        },
+        "name": {
+            "pmmp": "Long Night Vision Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 6
+        },
+        "network": {
+            "id": 561,
+            "meta": 6
+        },
+        "name": {
+            "pmmp": "Long Night Vision Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 7
+        },
+        "network": {
+            "id": 426,
+            "meta": 7
+        },
+        "name": {
+            "pmmp": "Invisibility Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 7
+        },
+        "network": {
+            "id": 561,
+            "meta": 7
+        },
+        "name": {
+            "pmmp": "Invisibility Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 8
+        },
+        "network": {
+            "id": 426,
+            "meta": 8
+        },
+        "name": {
+            "pmmp": "Long Invisibility Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 8
+        },
+        "network": {
+            "id": 561,
+            "meta": 8
+        },
+        "name": {
+            "pmmp": "Long Invisibility Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 9
+        },
+        "network": {
+            "id": 426,
+            "meta": 9
+        },
+        "name": {
+            "pmmp": "Leaping Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 9
+        },
+        "network": {
+            "id": 561,
+            "meta": 9
+        },
+        "name": {
+            "pmmp": "Leaping Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 10
+        },
+        "network": {
+            "id": 426,
+            "meta": 10
+        },
+        "name": {
+            "pmmp": "Long Leaping Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 10
+        },
+        "network": {
+            "id": 561,
+            "meta": 10
+        },
+        "name": {
+            "pmmp": "Long Leaping Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 11
+        },
+        "network": {
+            "id": 426,
+            "meta": 11
+        },
+        "name": {
+            "pmmp": "Strong Leaping Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 11
+        },
+        "network": {
+            "id": 561,
+            "meta": 11
+        },
+        "name": {
+            "pmmp": "Strong Leaping Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 12
+        },
+        "network": {
+            "id": 426,
+            "meta": 12
+        },
+        "name": {
+            "pmmp": "Fire Resistance Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 12
+        },
+        "network": {
+            "id": 561,
+            "meta": 12
+        },
+        "name": {
+            "pmmp": "Fire Resistance Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 13
+        },
+        "network": {
+            "id": 426,
+            "meta": 13
+        },
+        "name": {
+            "pmmp": "Long Fire Resistance Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 13
+        },
+        "network": {
+            "id": 561,
+            "meta": 13
+        },
+        "name": {
+            "pmmp": "Long Fire Resistance Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 14
+        },
+        "network": {
+            "id": 426,
+            "meta": 14
+        },
+        "name": {
+            "pmmp": "Swiftness Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 14
+        },
+        "network": {
+            "id": 561,
+            "meta": 14
+        },
+        "name": {
+            "pmmp": "Swiftness Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 15
+        },
+        "network": {
+            "id": 426,
+            "meta": 15
+        },
+        "name": {
+            "pmmp": "Long Swiftness Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 15
+        },
+        "network": {
+            "id": 561,
+            "meta": 15
+        },
+        "name": {
+            "pmmp": "Long Swiftness Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 16
+        },
+        "network": {
+            "id": 426,
+            "meta": 16
+        },
+        "name": {
+            "pmmp": "Strong Swiftness Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 16
+        },
+        "network": {
+            "id": 561,
+            "meta": 16
+        },
+        "name": {
+            "pmmp": "Strong Swiftness Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 17
+        },
+        "network": {
+            "id": 426,
+            "meta": 17
+        },
+        "name": {
+            "pmmp": "Slowness Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 17
+        },
+        "network": {
+            "id": 561,
+            "meta": 17
+        },
+        "name": {
+            "pmmp": "Slowness Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 18
+        },
+        "network": {
+            "id": 426,
+            "meta": 18
+        },
+        "name": {
+            "pmmp": "Long Slowness Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 18
+        },
+        "network": {
+            "id": 561,
+            "meta": 18
+        },
+        "name": {
+            "pmmp": "Long Slowness Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 19
+        },
+        "network": {
+            "id": 426,
+            "meta": 19
+        },
+        "name": {
+            "pmmp": "Water Breathing Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 19
+        },
+        "network": {
+            "id": 561,
+            "meta": 19
+        },
+        "name": {
+            "pmmp": "Water Breathing Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 20
+        },
+        "network": {
+            "id": 426,
+            "meta": 20
+        },
+        "name": {
+            "pmmp": "Long Water Breathing Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 20
+        },
+        "network": {
+            "id": 561,
+            "meta": 20
+        },
+        "name": {
+            "pmmp": "Long Water Breathing Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 21
+        },
+        "network": {
+            "id": 426,
+            "meta": 21
+        },
+        "name": {
+            "pmmp": "Healing Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 21
+        },
+        "network": {
+            "id": 561,
+            "meta": 21
+        },
+        "name": {
+            "pmmp": "Healing Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 22
+        },
+        "network": {
+            "id": 426,
+            "meta": 22
+        },
+        "name": {
+            "pmmp": "Strong Healing Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 22
+        },
+        "network": {
+            "id": 561,
+            "meta": 22
+        },
+        "name": {
+            "pmmp": "Strong Healing Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 23
+        },
+        "network": {
+            "id": 426,
+            "meta": 23
+        },
+        "name": {
+            "pmmp": "Harming Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 23
+        },
+        "network": {
+            "id": 561,
+            "meta": 23
+        },
+        "name": {
+            "pmmp": "Harming Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 24
+        },
+        "network": {
+            "id": 426,
+            "meta": 24
+        },
+        "name": {
+            "pmmp": "Strong Harming Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 24
+        },
+        "network": {
+            "id": 561,
+            "meta": 24
+        },
+        "name": {
+            "pmmp": "Strong Harming Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 25
+        },
+        "network": {
+            "id": 426,
+            "meta": 25
+        },
+        "name": {
+            "pmmp": "Poison Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 25
+        },
+        "network": {
+            "id": 561,
+            "meta": 25
+        },
+        "name": {
+            "pmmp": "Poison Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 26
+        },
+        "network": {
+            "id": 426,
+            "meta": 26
+        },
+        "name": {
+            "pmmp": "Long Poison Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 26
+        },
+        "network": {
+            "id": 561,
+            "meta": 26
+        },
+        "name": {
+            "pmmp": "Long Poison Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 27
+        },
+        "network": {
+            "id": 426,
+            "meta": 27
+        },
+        "name": {
+            "pmmp": "Strong Poison Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 27
+        },
+        "network": {
+            "id": 561,
+            "meta": 27
+        },
+        "name": {
+            "pmmp": "Strong Poison Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 28
+        },
+        "network": {
+            "id": 426,
+            "meta": 28
+        },
+        "name": {
+            "pmmp": "Regeneration Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 28
+        },
+        "network": {
+            "id": 561,
+            "meta": 28
+        },
+        "name": {
+            "pmmp": "Regeneration Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 29
+        },
+        "network": {
+            "id": 426,
+            "meta": 29
+        },
+        "name": {
+            "pmmp": "Long Regeneration Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 29
+        },
+        "network": {
+            "id": 561,
+            "meta": 29
+        },
+        "name": {
+            "pmmp": "Long Regeneration Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 30
+        },
+        "network": {
+            "id": 426,
+            "meta": 30
+        },
+        "name": {
+            "pmmp": "Strong Regeneration Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 30
+        },
+        "network": {
+            "id": 561,
+            "meta": 30
+        },
+        "name": {
+            "pmmp": "Strong Regeneration Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 31
+        },
+        "network": {
+            "id": 426,
+            "meta": 31
+        },
+        "name": {
+            "pmmp": "Strength Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 31
+        },
+        "network": {
+            "id": 561,
+            "meta": 31
+        },
+        "name": {
+            "pmmp": "Strength Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 32
+        },
+        "network": {
+            "id": 426,
+            "meta": 32
+        },
+        "name": {
+            "pmmp": "Long Strength Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 32
+        },
+        "network": {
+            "id": 561,
+            "meta": 32
+        },
+        "name": {
+            "pmmp": "Long Strength Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 33
+        },
+        "network": {
+            "id": 426,
+            "meta": 33
+        },
+        "name": {
+            "pmmp": "Strong Strength Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 33
+        },
+        "network": {
+            "id": 561,
+            "meta": 33
+        },
+        "name": {
+            "pmmp": "Strong Strength Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 34
+        },
+        "network": {
+            "id": 426,
+            "meta": 34
+        },
+        "name": {
+            "pmmp": "Weakness Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 34
+        },
+        "network": {
+            "id": 561,
+            "meta": 34
+        },
+        "name": {
+            "pmmp": "Weakness Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 35
+        },
+        "network": {
+            "id": 426,
+            "meta": 35
+        },
+        "name": {
+            "pmmp": "Long Weakness Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 35
+        },
+        "network": {
+            "id": 561,
+            "meta": 35
+        },
+        "name": {
+            "pmmp": "Long Weakness Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 36
+        },
+        "network": {
+            "id": 426,
+            "meta": 36
+        },
+        "name": {
+            "pmmp": "Wither Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 36
+        },
+        "network": {
+            "id": 561,
+            "meta": 36
+        },
+        "name": {
+            "pmmp": "Wither Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 37
+        },
+        "network": {
+            "id": 426,
+            "meta": 37
+        },
+        "name": {
+            "pmmp": "Turtle Master Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 37
+        },
+        "network": {
+            "id": 561,
+            "meta": 37
+        },
+        "name": {
+            "pmmp": "Turtle Master Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 38
+        },
+        "network": {
+            "id": 426,
+            "meta": 38
+        },
+        "name": {
+            "pmmp": "Long Turtle Master Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 38
+        },
+        "network": {
+            "id": 561,
+            "meta": 38
+        },
+        "name": {
+            "pmmp": "Long Turtle Master Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 39
+        },
+        "network": {
+            "id": 426,
+            "meta": 39
+        },
+        "name": {
+            "pmmp": "Strong Turtle Master Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 39
+        },
+        "network": {
+            "id": 561,
+            "meta": 39
+        },
+        "name": {
+            "pmmp": "Strong Turtle Master Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 40
+        },
+        "network": {
+            "id": 426,
+            "meta": 40
+        },
+        "name": {
+            "pmmp": "Slow Falling Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 40
+        },
+        "network": {
+            "id": 561,
+            "meta": 40
+        },
+        "name": {
+            "pmmp": "Slow Falling Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:potion",
+            "dictionary": "minecraft:potion"
+        },
+        "legacy": {
+            "id": 373,
+            "meta": 41
+        },
+        "network": {
+            "id": 426,
+            "meta": 41
+        },
+        "name": {
+            "pmmp": "Long Slow Falling Potion",
+            "en": "Water Bottle",
+            "tr": "Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:splash_potion",
+            "dictionary": "minecraft:splash_potion"
+        },
+        "legacy": {
+            "id": 438,
+            "meta": 41
+        },
+        "network": {
+            "id": 561,
+            "meta": 41
+        },
+        "name": {
+            "pmmp": "Long Slow Falling Splash Potion",
+            "en": "Splash Water Bottle",
+            "tr": "Sıçrayan Su Şişesi"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:boat",
+            "dictionary": "minecraft:oak_boat"
+        },
+        "legacy": {
+            "id": 333,
+            "meta": 0
+        },
+        "network": {
+            "id": 375,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Oak Boat",
+            "en": "Oak Boat",
+            "tr": "Meşe Tekne"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:boat",
+            "dictionary": "minecraft:spruce_boat"
+        },
+        "legacy": {
+            "id": 333,
+            "meta": 1
+        },
+        "network": {
+            "id": 378,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Spruce Boat",
+            "en": "Spruce Boat",
+            "tr": "Çam Tekne"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:boat",
+            "dictionary": "minecraft:birch_boat"
+        },
+        "legacy": {
+            "id": 333,
+            "meta": 2
+        },
+        "network": {
+            "id": 376,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Birch Boat",
+            "en": "Birch Boat",
+            "tr": "Huş Ağacından Tekne"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:boat",
+            "dictionary": "minecraft:jungle_boat"
+        },
+        "legacy": {
+            "id": 333,
+            "meta": 3
+        },
+        "network": {
+            "id": 377,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Jungle Boat",
+            "en": "Jungle Boat",
+            "tr": "Büyük Orman Tekne"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:boat",
+            "dictionary": "minecraft:acacia_boat"
+        },
+        "legacy": {
+            "id": 333,
+            "meta": 4
+        },
+        "network": {
+            "id": 379,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Acacia Boat",
+            "en": "Acacia Boat",
+            "tr": "Akasya Tekne"
+        }
+    },
+    {
+        "identifier": {
+            "base": "minecraft:boat",
+            "dictionary": "minecraft:dark_oak_boat"
+        },
+        "legacy": {
+            "id": 333,
+            "meta": 5
+        },
+        "network": {
+            "id": 380,
+            "meta": 0
+        },
+        "name": {
+            "pmmp": "Dark Oak Boat",
+            "en": "Dark Oak Boat",
+            "tr": "Koyu Meşe Tekne"
+        }
+    }
+]

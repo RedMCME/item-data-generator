@@ -1,0 +1,8 @@
+{
+  "require": {
+    "pocketmine/pocketmine-mp": "^4.12"
+  },
+  "config": {
+    "platform-check": false
+  }
+}
