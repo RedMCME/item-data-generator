@@ -83,7 +83,7 @@ function nameForLang(string $lang, array $identifiers, int $meta): string {
 
 	foreach ($identifiers as $identifier) {
 		$entry = array_filter($table, fn($entry) => $entry['id'] === $identifier && (
-			!isset($entry['meta']) || $entry['meta'] === $meta
+			($entry['meta'] ?? 0) === $meta
 		));
 		if (count($entry) === 0) {
 			continue;

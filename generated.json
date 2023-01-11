@@ -13,7 +13,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Chainmail Boots",
+            "pocketmine": "Chainmail Boots",
             "en": "Chain Boots",
             "tr": "Zincir Botlar"
         }
@@ -32,7 +32,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Diamond Boots",
+            "pocketmine": "Diamond Boots",
             "en": "Diamond Boots",
             "tr": "Elmas Botlar"
         }
@@ -51,7 +51,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Golden Boots",
+            "pocketmine": "Golden Boots",
             "en": "Golden Boots",
             "tr": "Altın Botlar"
         }
@@ -70,7 +70,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Iron Boots",
+            "pocketmine": "Iron Boots",
             "en": "Iron Boots",
             "tr": "Demir Botlar"
         }
@@ -89,7 +89,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Leather Boots",
+            "pocketmine": "Leather Boots",
             "en": "Leather Boots",
             "tr": "Deri Botlar"
         }
@@ -108,7 +108,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Chainmail Chestplate",
+            "pocketmine": "Chainmail Chestplate",
             "en": "Chain Chestplate",
             "tr": "Zincir Zırh"
         }
@@ -127,7 +127,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Diamond Chestplate",
+            "pocketmine": "Diamond Chestplate",
             "en": "Diamond Chestplate",
             "tr": "Elmas Zırh"
         }
@@ -146,7 +146,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Golden Chestplate",
+            "pocketmine": "Golden Chestplate",
             "en": "Golden Chestplate",
             "tr": "Altın Zırh"
         }
@@ -165,7 +165,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Iron Chestplate",
+            "pocketmine": "Iron Chestplate",
             "en": "Iron Chestplate",
             "tr": "Demir Zırh"
         }
@@ -184,7 +184,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Leather Tunic",
+            "pocketmine": "Leather Tunic",
             "en": "Leather Tunic",
             "tr": "Deri Ceket"
         }
@@ -203,7 +203,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Chainmail Helmet",
+            "pocketmine": "Chainmail Helmet",
             "en": "Chain Helmet",
             "tr": "Zincir Miğfer"
         }
@@ -222,7 +222,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Diamond Helmet",
+            "pocketmine": "Diamond Helmet",
             "en": "Diamond Helmet",
             "tr": "Elmas Miğfer"
         }
@@ -241,7 +241,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Golden Helmet",
+            "pocketmine": "Golden Helmet",
             "en": "Golden Helmet",
             "tr": "Altın Miğfer"
         }
@@ -260,7 +260,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Iron Helmet",
+            "pocketmine": "Iron Helmet",
             "en": "Iron Helmet",
             "tr": "Demir Miğfer"
         }
@@ -279,7 +279,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Leather Cap",
+            "pocketmine": "Leather Cap",
             "en": "Leather Cap",
             "tr": "Deri Başlık"
         }
@@ -298,7 +298,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Chainmail Leggings",
+            "pocketmine": "Chainmail Leggings",
             "en": "Chain Leggings",
             "tr": "Zincir Bacak Zırhı"
         }
@@ -317,7 +317,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Diamond Leggings",
+            "pocketmine": "Diamond Leggings",
             "en": "Diamond Leggings",
             "tr": "Elmas Bacak Zırhı"
         }
@@ -336,7 +336,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Golden Leggings",
+            "pocketmine": "Golden Leggings",
             "en": "Golden Leggings",
             "tr": "Altın Bacak Zırhı"
         }
@@ -355,7 +355,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Iron Leggings",
+            "pocketmine": "Iron Leggings",
             "en": "Iron Leggings",
             "tr": "Demir Bacak Zırhı"
         }
@@ -374,7 +374,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Leather Pants",
+            "pocketmine": "Leather Pants",
             "en": "Leather Pants",
             "tr": "Deri Pantolon"
         }
@@ -393,7 +393,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Zombie Spawn Egg",
+            "pocketmine": "Zombie Spawn Egg",
             "en": "Spawn Zombie",
             "tr": "Çağır: Zombi"
         }
@@ -412,7 +412,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Squid Spawn Egg",
+            "pocketmine": "Squid Spawn Egg",
             "en": "Spawn Squid",
             "tr": "Çağır: Mürekkep Balığı"
         }
@@ -431,7 +431,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Villager Spawn Egg",
+            "pocketmine": "Villager Spawn Egg",
             "en": "Spawn Villager",
             "tr": "Çağır: Köylü"
         }
@@ -450,7 +450,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Diamond Axe",
+            "pocketmine": "Diamond Axe",
             "en": "Diamond Axe",
             "tr": "Elmas Balta"
         }
@@ -469,7 +469,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Golden Axe",
+            "pocketmine": "Golden Axe",
             "en": "Golden Axe",
             "tr": "Altın Balta"
         }
@@ -488,7 +488,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Iron Axe",
+            "pocketmine": "Iron Axe",
             "en": "Iron Axe",
             "tr": "Demir Balta"
         }
@@ -507,7 +507,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Stone Axe",
+            "pocketmine": "Stone Axe",
             "en": "Stone Axe",
             "tr": "Taş Balta"
         }
@@ -526,7 +526,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Wooden Axe",
+            "pocketmine": "Wooden Axe",
             "en": "Wooden Axe",
             "tr": "Tahta Balta"
         }
@@ -545,7 +545,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Diamond Hoe",
+            "pocketmine": "Diamond Hoe",
             "en": "Diamond Hoe",
             "tr": "Elmas Çapa"
         }
@@ -564,7 +564,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Golden Hoe",
+            "pocketmine": "Golden Hoe",
             "en": "Golden Hoe",
             "tr": "Altın Çapa"
         }
@@ -583,7 +583,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Iron Hoe",
+            "pocketmine": "Iron Hoe",
             "en": "Iron Hoe",
             "tr": "Demir Çapa"
         }
@@ -602,7 +602,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Stone Hoe",
+            "pocketmine": "Stone Hoe",
             "en": "Stone Hoe",
             "tr": "Taş Çapa"
         }
@@ -621,7 +621,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Wooden Hoe",
+            "pocketmine": "Wooden Hoe",
             "en": "Wooden Hoe",
             "tr": "Tahta Çapa"
         }
@@ -640,7 +640,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Diamond Pickaxe",
+            "pocketmine": "Diamond Pickaxe",
             "en": "Diamond Pickaxe",
             "tr": "Elmas Kazma"
         }
@@ -659,7 +659,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Golden Pickaxe",
+            "pocketmine": "Golden Pickaxe",
             "en": "Golden Pickaxe",
             "tr": "Altın Kazma"
         }
@@ -678,7 +678,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Iron Pickaxe",
+            "pocketmine": "Iron Pickaxe",
             "en": "Iron Pickaxe",
             "tr": "Demir Kazma"
         }
@@ -697,7 +697,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Stone Pickaxe",
+            "pocketmine": "Stone Pickaxe",
             "en": "Stone Pickaxe",
             "tr": "Taş Kazma"
         }
@@ -716,7 +716,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Wooden Pickaxe",
+            "pocketmine": "Wooden Pickaxe",
             "en": "Wooden Pickaxe",
             "tr": "Tahta Kazma"
         }
@@ -735,7 +735,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Diamond Shovel",
+            "pocketmine": "Diamond Shovel",
             "en": "Diamond Shovel",
             "tr": "Elmas Kürek"
         }
@@ -754,7 +754,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Golden Shovel",
+            "pocketmine": "Golden Shovel",
             "en": "Golden Shovel",
             "tr": "Altın Kürek"
         }
@@ -773,7 +773,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Iron Shovel",
+            "pocketmine": "Iron Shovel",
             "en": "Iron Shovel",
             "tr": "Demir Kürek"
         }
@@ -792,7 +792,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Stone Shovel",
+            "pocketmine": "Stone Shovel",
             "en": "Stone Shovel",
             "tr": "Taş Kürek"
         }
@@ -811,7 +811,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Wooden Shovel",
+            "pocketmine": "Wooden Shovel",
             "en": "Wooden Shovel",
             "tr": "Tahta Kürek"
         }
@@ -830,7 +830,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Diamond Sword",
+            "pocketmine": "Diamond Sword",
             "en": "Diamond Sword",
             "tr": "Elmas Kılıç"
         }
@@ -849,7 +849,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Golden Sword",
+            "pocketmine": "Golden Sword",
             "en": "Golden Sword",
             "tr": "Altın Kılıç"
         }
@@ -868,7 +868,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Iron Sword",
+            "pocketmine": "Iron Sword",
             "en": "Iron Sword",
             "tr": "Demir Kılıç"
         }
@@ -887,7 +887,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Stone Sword",
+            "pocketmine": "Stone Sword",
             "en": "Stone Sword",
             "tr": "Taş Kılıç"
         }
@@ -906,7 +906,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Wooden Sword",
+            "pocketmine": "Wooden Sword",
             "en": "Wooden Sword",
             "tr": "Tahta Kılıç"
         }
@@ -925,7 +925,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Apple",
+            "pocketmine": "Apple",
             "en": "Apple",
             "tr": "Elma"
         }
@@ -944,7 +944,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Arrow",
+            "pocketmine": "Arrow",
             "en": "Arrow",
             "tr": "Ok"
         }
@@ -963,7 +963,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Baked Potato",
+            "pocketmine": "Baked Potato",
             "en": "Baked Potato",
             "tr": "Fırında Patates"
         }
@@ -982,7 +982,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Bamboo",
+            "pocketmine": "Bamboo",
             "en": "Bamboo",
             "tr": "Bambu"
         }
@@ -1001,7 +1001,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Beetroot",
+            "pocketmine": "Beetroot",
             "en": "Beetroot",
             "tr": "Pancar"
         }
@@ -1020,7 +1020,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Beetroot Seeds",
+            "pocketmine": "Beetroot Seeds",
             "en": "Beetroot Seeds",
             "tr": "Pancar Tohumu"
         }
@@ -1039,7 +1039,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Beetroot Soup",
+            "pocketmine": "Beetroot Soup",
             "en": "Beetroot Soup",
             "tr": "Pancar Çorbası"
         }
@@ -1058,7 +1058,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Blaze Rod",
+            "pocketmine": "Blaze Rod",
             "en": "Blaze Rod",
             "tr": "Blaze Çubuğu"
         }
@@ -1077,7 +1077,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Book",
+            "pocketmine": "Book",
             "en": "Book",
             "tr": "Kitap"
         }
@@ -1096,7 +1096,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Bow",
+            "pocketmine": "Bow",
             "en": "Bow",
             "tr": "Yay"
         }
@@ -1115,7 +1115,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Bowl",
+            "pocketmine": "Bowl",
             "en": "Bowl",
             "tr": "Kase"
         }
@@ -1134,7 +1134,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Bread",
+            "pocketmine": "Bread",
             "en": "Bread",
             "tr": "Ekmek"
         }
@@ -1153,7 +1153,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Bucket",
+            "pocketmine": "Bucket",
             "en": "Bucket",
             "tr": "Kova"
         }
@@ -1172,7 +1172,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Carrot",
+            "pocketmine": "Carrot",
             "en": "Carrot",
             "tr": "Havuç"
         }
@@ -1191,7 +1191,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Chorus Fruit",
+            "pocketmine": "Chorus Fruit",
             "en": "Chorus Fruit",
             "tr": "Koro Meyvesi"
         }
@@ -1210,7 +1210,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Clock",
+            "pocketmine": "Clock",
             "en": "Clock",
             "tr": "Saat"
         }
@@ -1229,7 +1229,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Clownfish",
+            "pocketmine": "Clownfish",
             "en": "Tropical Fish",
             "tr": "Tropik Balık"
         }
@@ -1248,7 +1248,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Coal",
+            "pocketmine": "Coal",
             "en": "Coal",
             "tr": "Kömür"
         }
@@ -1267,7 +1267,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Coral Fan",
+            "pocketmine": "Coral Fan",
             "en": "Tube Coral Fan",
             "tr": "Tüp Mercan Yelpazesi"
         }
@@ -1286,7 +1286,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Coral Fan",
+            "pocketmine": "Coral Fan",
             "en": "Dead Tube Coral Fan",
             "tr": "Ölü Tüp Mercan Yelpazesi"
         }
@@ -1305,9 +1305,9 @@
             "meta": 1
         },
         "name": {
-            "pmmp": "Coral Fan",
-            "en": "Tube Coral Fan",
-            "tr": "Tüp Mercan Yelpazesi"
+            "pocketmine": "Coral Fan",
+            "en": "Brain Coral Fan",
+            "tr": "Beyin Mercanı Yelpazesi"
         }
     },
     {
@@ -1324,9 +1324,9 @@
             "meta": 1
         },
         "name": {
-            "pmmp": "Coral Fan",
-            "en": "Dead Tube Coral Fan",
-            "tr": "Ölü Tüp Mercan Yelpazesi"
+            "pocketmine": "Coral Fan",
+            "en": "Dead Brain Coral Fan",
+            "tr": "Ölü Beyin Mercanı Yelpazesi"
         }
     },
     {
@@ -1343,9 +1343,9 @@
             "meta": 2
         },
         "name": {
-            "pmmp": "Coral Fan",
-            "en": "Tube Coral Fan",
-            "tr": "Tüp Mercan Yelpazesi"
+            "pocketmine": "Coral Fan",
+            "en": "Bubble Coral Fan",
+            "tr": "Balon Mercan Yelpazesi"
         }
     },
     {
@@ -1362,9 +1362,9 @@
             "meta": 2
         },
         "name": {
-            "pmmp": "Coral Fan",
-            "en": "Dead Tube Coral Fan",
-            "tr": "Ölü Tüp Mercan Yelpazesi"
+            "pocketmine": "Coral Fan",
+            "en": "Dead Bubble Coral Fan",
+            "tr": "Ölü Balon Mercan Yelpazesi"
         }
     },
     {
@@ -1381,9 +1381,9 @@
             "meta": 3
         },
         "name": {
-            "pmmp": "Coral Fan",
-            "en": "Tube Coral Fan",
-            "tr": "Tüp Mercan Yelpazesi"
+            "pocketmine": "Coral Fan",
+            "en": "Fire Coral Fan",
+            "tr": "Yangın Mercanı Yelpazesi"
         }
     },
     {
@@ -1400,9 +1400,9 @@
             "meta": 3
         },
         "name": {
-            "pmmp": "Coral Fan",
-            "en": "Dead Tube Coral Fan",
-            "tr": "Ölü Tüp Mercan Yelpazesi"
+            "pocketmine": "Coral Fan",
+            "en": "Dead Fire Coral Fan",
+            "tr": "Ölü Yangın Mercanı Yelpazesi"
         }
     },
     {
@@ -1419,9 +1419,9 @@
             "meta": 4
         },
         "name": {
-            "pmmp": "Coral Fan",
-            "en": "Tube Coral Fan",
-            "tr": "Tüp Mercan Yelpazesi"
+            "pocketmine": "Coral Fan",
+            "en": "Horn Coral Fan",
+            "tr": "Boynuz Mercan Yelpazesi"
         }
     },
     {
@@ -1438,9 +1438,9 @@
             "meta": 4
         },
         "name": {
-            "pmmp": "Coral Fan",
-            "en": "Dead Tube Coral Fan",
-            "tr": "Ölü Tüp Mercan Yelpazesi"
+            "pocketmine": "Coral Fan",
+            "en": "Dead Horn Coral Fan",
+            "tr": "Ölü Boynuz Mercan Yelpazesi"
         }
     },
     {
@@ -1457,7 +1457,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Charcoal",
+            "pocketmine": "Charcoal",
             "en": "Charcoal",
             "tr": "Odun Kömürü"
         }
@@ -1476,7 +1476,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Cocoa Beans",
+            "pocketmine": "Cocoa Beans",
             "en": "Cocoa Beans",
             "tr": "Kakao Çekirdekleri"
         }
@@ -1495,7 +1495,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Compass",
+            "pocketmine": "Compass",
             "en": "Compass",
             "tr": "Pusula"
         }
@@ -1514,7 +1514,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Cooked Chicken",
+            "pocketmine": "Cooked Chicken",
             "en": "Cooked Chicken",
             "tr": "Pişmiş Tavuk"
         }
@@ -1533,7 +1533,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Cooked Fish",
+            "pocketmine": "Cooked Fish",
             "en": "Cooked Cod",
             "tr": "Pişmiş Morina"
         }
@@ -1552,7 +1552,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Cooked Mutton",
+            "pocketmine": "Cooked Mutton",
             "en": "Cooked Mutton",
             "tr": "Pişmiş Koyun Eti"
         }
@@ -1571,7 +1571,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Cooked Porkchop",
+            "pocketmine": "Cooked Porkchop",
             "en": "Cooked Porkchop",
             "tr": "Pişmiş Domuz Pirzolası"
         }
@@ -1590,7 +1590,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Cooked Rabbit",
+            "pocketmine": "Cooked Rabbit",
             "en": "Cooked Rabbit",
             "tr": "Pişmiş Tavşan Eti"
         }
@@ -1609,7 +1609,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Cooked Salmon",
+            "pocketmine": "Cooked Salmon",
             "en": "Cooked Salmon",
             "tr": "Pişmiş Somon Balığı"
         }
@@ -1628,7 +1628,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Cookie",
+            "pocketmine": "Cookie",
             "en": "Cookie",
             "tr": "Kurabiye"
         }
@@ -1647,7 +1647,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Dried Kelp",
+            "pocketmine": "Dried Kelp",
             "en": "Dried Kelp",
             "tr": "Kurutulmuş Varek"
         }
@@ -1666,7 +1666,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Egg",
+            "pocketmine": "Egg",
             "en": "Egg",
             "tr": "Yumurta"
         }
@@ -1685,7 +1685,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Ender Pearl",
+            "pocketmine": "Ender Pearl",
             "en": "Ender Pearl",
             "tr": "Ender İncisi"
         }
@@ -1704,7 +1704,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Bottle o' Enchanting",
+            "pocketmine": "Bottle o' Enchanting",
             "en": "Bottle o' Enchanting",
             "tr": "Büyü Şişesi"
         }
@@ -1723,7 +1723,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Bone Meal",
+            "pocketmine": "Bone Meal",
             "en": "Bone Meal",
             "tr": "Kemik Tozu"
         }
@@ -1742,7 +1742,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Fishing Rod",
+            "pocketmine": "Fishing Rod",
             "en": "Fishing Rod",
             "tr": "Olta"
         }
@@ -1761,7 +1761,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Flint and Steel",
+            "pocketmine": "Flint and Steel",
             "en": "Flint and Steel",
             "tr": "Çakmaktaşı ve Çelik"
         }
@@ -1780,7 +1780,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Glass Bottle",
+            "pocketmine": "Glass Bottle",
             "en": "Glass Bottle",
             "tr": "Cam şişe"
         }
@@ -1799,7 +1799,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Golden Apple",
+            "pocketmine": "Golden Apple",
             "en": "Golden Apple",
             "tr": "Altın Elma"
         }
@@ -1818,7 +1818,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Enchanted Golden Apple",
+            "pocketmine": "Enchanted Golden Apple",
             "en": "Enchanted Apple",
             "tr": "Büyülü Elma"
         }
@@ -1837,7 +1837,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Golden Carrot",
+            "pocketmine": "Golden Carrot",
             "en": "Golden Carrot",
             "tr": "Altın Havuç"
         }
@@ -1856,7 +1856,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Blaze Powder",
+            "pocketmine": "Blaze Powder",
             "en": "Blaze Powder",
             "tr": "Blaze Tozu"
         }
@@ -1875,7 +1875,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Bleach",
+            "pocketmine": "Bleach",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -1894,7 +1894,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Bone",
+            "pocketmine": "Bone",
             "en": "Bone",
             "tr": "Kemik"
         }
@@ -1913,7 +1913,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Brick",
+            "pocketmine": "Brick",
             "en": "Brick",
             "tr": "Tuğla"
         }
@@ -1932,7 +1932,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Popped Chorus Fruit",
+            "pocketmine": "Popped Chorus Fruit",
             "en": "Popped Chorus Fruit",
             "tr": "Atık Koro Meyvesi"
         }
@@ -1951,7 +1951,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Clay",
+            "pocketmine": "Clay",
             "en": "Clay",
             "tr": "Kil"
         }
@@ -1970,7 +1970,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Salt",
+            "pocketmine": "Salt",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -1989,7 +1989,7 @@
             "meta": 1
         },
         "name": {
-            "pmmp": "Sodium Oxide",
+            "pocketmine": "Sodium Oxide",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2008,7 +2008,7 @@
             "meta": 2
         },
         "name": {
-            "pmmp": "Sodium Hydroxide",
+            "pocketmine": "Sodium Hydroxide",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2027,7 +2027,7 @@
             "meta": 3
         },
         "name": {
-            "pmmp": "Magnesium Nitrate",
+            "pocketmine": "Magnesium Nitrate",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2046,7 +2046,7 @@
             "meta": 4
         },
         "name": {
-            "pmmp": "Iron Sulphide",
+            "pocketmine": "Iron Sulphide",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2065,7 +2065,7 @@
             "meta": 5
         },
         "name": {
-            "pmmp": "Lithium Hydride",
+            "pocketmine": "Lithium Hydride",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2084,7 +2084,7 @@
             "meta": 6
         },
         "name": {
-            "pmmp": "Sodium Hydride",
+            "pocketmine": "Sodium Hydride",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2103,7 +2103,7 @@
             "meta": 7
         },
         "name": {
-            "pmmp": "Calcium Bromide",
+            "pocketmine": "Calcium Bromide",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2122,7 +2122,7 @@
             "meta": 8
         },
         "name": {
-            "pmmp": "Magnesium Oxide",
+            "pocketmine": "Magnesium Oxide",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2141,7 +2141,7 @@
             "meta": 9
         },
         "name": {
-            "pmmp": "Sodium Acetate",
+            "pocketmine": "Sodium Acetate",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2160,7 +2160,7 @@
             "meta": 10
         },
         "name": {
-            "pmmp": "Luminol",
+            "pocketmine": "Luminol",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2179,7 +2179,7 @@
             "meta": 11
         },
         "name": {
-            "pmmp": "Charcoal",
+            "pocketmine": "Charcoal",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2198,7 +2198,7 @@
             "meta": 12
         },
         "name": {
-            "pmmp": "Sugar",
+            "pocketmine": "Sugar",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2217,7 +2217,7 @@
             "meta": 13
         },
         "name": {
-            "pmmp": "Aluminium Oxide",
+            "pocketmine": "Aluminium Oxide",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2236,7 +2236,7 @@
             "meta": 14
         },
         "name": {
-            "pmmp": "Boron Trioxide",
+            "pocketmine": "Boron Trioxide",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2255,7 +2255,7 @@
             "meta": 15
         },
         "name": {
-            "pmmp": "Soap",
+            "pocketmine": "Soap",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2274,7 +2274,7 @@
             "meta": 16
         },
         "name": {
-            "pmmp": "Polyethylene",
+            "pocketmine": "Polyethylene",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2293,7 +2293,7 @@
             "meta": 17
         },
         "name": {
-            "pmmp": "Rubbish",
+            "pocketmine": "Rubbish",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2312,7 +2312,7 @@
             "meta": 18
         },
         "name": {
-            "pmmp": "Magnesium Salts",
+            "pocketmine": "Magnesium Salts",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2331,7 +2331,7 @@
             "meta": 19
         },
         "name": {
-            "pmmp": "Sulphate",
+            "pocketmine": "Sulphate",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2350,7 +2350,7 @@
             "meta": 20
         },
         "name": {
-            "pmmp": "Barium Sulphate",
+            "pocketmine": "Barium Sulphate",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2369,7 +2369,7 @@
             "meta": 21
         },
         "name": {
-            "pmmp": "Potassium Chloride",
+            "pocketmine": "Potassium Chloride",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2388,7 +2388,7 @@
             "meta": 22
         },
         "name": {
-            "pmmp": "Mercuric Chloride",
+            "pocketmine": "Mercuric Chloride",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2407,7 +2407,7 @@
             "meta": 23
         },
         "name": {
-            "pmmp": "Cerium Chloride",
+            "pocketmine": "Cerium Chloride",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2426,7 +2426,7 @@
             "meta": 24
         },
         "name": {
-            "pmmp": "Tungsten Chloride",
+            "pocketmine": "Tungsten Chloride",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2445,7 +2445,7 @@
             "meta": 25
         },
         "name": {
-            "pmmp": "Calcium Chloride",
+            "pocketmine": "Calcium Chloride",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2464,7 +2464,7 @@
             "meta": 26
         },
         "name": {
-            "pmmp": "Water",
+            "pocketmine": "Water",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2483,7 +2483,7 @@
             "meta": 27
         },
         "name": {
-            "pmmp": "Glue",
+            "pocketmine": "Glue",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2502,7 +2502,7 @@
             "meta": 28
         },
         "name": {
-            "pmmp": "Hypochlorite",
+            "pocketmine": "Hypochlorite",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2521,7 +2521,7 @@
             "meta": 29
         },
         "name": {
-            "pmmp": "Crude Oil",
+            "pocketmine": "Crude Oil",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2540,7 +2540,7 @@
             "meta": 30
         },
         "name": {
-            "pmmp": "Latex",
+            "pocketmine": "Latex",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2559,7 +2559,7 @@
             "meta": 31
         },
         "name": {
-            "pmmp": "Potassium Iodide",
+            "pocketmine": "Potassium Iodide",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2578,7 +2578,7 @@
             "meta": 32
         },
         "name": {
-            "pmmp": "Sodium Fluoride",
+            "pocketmine": "Sodium Fluoride",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2597,7 +2597,7 @@
             "meta": 33
         },
         "name": {
-            "pmmp": "Benzene",
+            "pocketmine": "Benzene",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2616,7 +2616,7 @@
             "meta": 34
         },
         "name": {
-            "pmmp": "Ink",
+            "pocketmine": "Ink",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2635,7 +2635,7 @@
             "meta": 35
         },
         "name": {
-            "pmmp": "Hydrogen Peroxide",
+            "pocketmine": "Hydrogen Peroxide",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2654,7 +2654,7 @@
             "meta": 36
         },
         "name": {
-            "pmmp": "Ammonia",
+            "pocketmine": "Ammonia",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2673,7 +2673,7 @@
             "meta": 37
         },
         "name": {
-            "pmmp": "Sodium Hypochlorite",
+            "pocketmine": "Sodium Hypochlorite",
             "en": "Unknown",
             "tr": "Unknown"
         }
@@ -2692,7 +2692,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Diamond",
+            "pocketmine": "Diamond",
             "en": "Diamond",
             "tr": "Elmas"
         }
@@ -2711,7 +2711,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Dragon's Breath",
+            "pocketmine": "Dragon's Breath",
             "en": "Dragon's Breath",
             "tr": "Ejderha Nefesi"
         }
@@ -2730,7 +2730,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Ink Sac",
+            "pocketmine": "Ink Sac",
             "en": "Ink Sac",
             "tr": "Mürekkep Kesesi"
         }
@@ -2749,7 +2749,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Lapis Lazuli",
+            "pocketmine": "Lapis Lazuli",
             "en": "Lapis Lazuli",
             "tr": "Lacivert Taş"
         }
@@ -2768,7 +2768,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Emerald",
+            "pocketmine": "Emerald",
             "en": "Emerald",
             "tr": "Zümrüt"
         }
@@ -2787,7 +2787,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Feather",
+            "pocketmine": "Feather",
             "en": "Feather",
             "tr": "Tüy"
         }
@@ -2806,7 +2806,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Fermented Spider Eye",
+            "pocketmine": "Fermented Spider Eye",
             "en": "Fermented Spider Eye",
             "tr": "Fermente Örümcek Gözü"
         }
@@ -2825,7 +2825,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Flint",
+            "pocketmine": "Flint",
             "en": "Flint",
             "tr": "Çakmaktaşı"
         }
@@ -2844,7 +2844,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Ghast Tear",
+            "pocketmine": "Ghast Tear",
             "en": "Ghast Tear",
             "tr": "Ghast gözyaşı"
         }
@@ -2863,7 +2863,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Glistering Melon",
+            "pocketmine": "Glistering Melon",
             "en": "Glistering Melon",
             "tr": "Parlayan Karpuz"
         }
@@ -2882,7 +2882,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Glowstone Dust",
+            "pocketmine": "Glowstone Dust",
             "en": "Glowstone Dust",
             "tr": "Işık Taşı Tozu"
         }
@@ -2901,7 +2901,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Gold Ingot",
+            "pocketmine": "Gold Ingot",
             "en": "Gold Ingot",
             "tr": "Altın Külçesi"
         }
@@ -2920,7 +2920,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Gold Nugget",
+            "pocketmine": "Gold Nugget",
             "en": "Gold Nugget",
             "tr": "Altın Parçası"
         }
@@ -2939,7 +2939,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Gunpowder",
+            "pocketmine": "Gunpowder",
             "en": "Gunpowder",
             "tr": "Barut"
         }
@@ -2958,7 +2958,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Heart of the Sea",
+            "pocketmine": "Heart of the Sea",
             "en": "Heart of the Sea",
             "tr": "Denizin Kalbi"
         }
@@ -2977,7 +2977,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Iron Ingot",
+            "pocketmine": "Iron Ingot",
             "en": "Iron Ingot",
             "tr": "Demir külçesi"
         }
@@ -2996,7 +2996,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Iron Nugget",
+            "pocketmine": "Iron Nugget",
             "en": "Iron Nugget",
             "tr": "Demir Parçası"
         }
@@ -3015,7 +3015,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Leather",
+            "pocketmine": "Leather",
             "en": "Leather",
             "tr": "Deri"
         }
@@ -3034,7 +3034,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Magma Cream",
+            "pocketmine": "Magma Cream",
             "en": "Magma Cream",
             "tr": "Magma Kremi"
         }
@@ -3053,7 +3053,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Nautilus Shell",
+            "pocketmine": "Nautilus Shell",
             "en": "Nautilus Shell",
             "tr": "Notilus Kabuğu"
         }
@@ -3072,7 +3072,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Nether Brick",
+            "pocketmine": "Nether Brick",
             "en": "Nether Brick",
             "tr": "Nether Tuğlası"
         }
@@ -3091,7 +3091,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Nether Quartz",
+            "pocketmine": "Nether Quartz",
             "en": "Nether Quartz",
             "tr": "Nether Kuvarsı"
         }
@@ -3110,7 +3110,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Nether Star",
+            "pocketmine": "Nether Star",
             "en": "Nether Star",
             "tr": "Nether Yıldızı"
         }
@@ -3129,7 +3129,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Paper",
+            "pocketmine": "Paper",
             "en": "Paper",
             "tr": "Kağıt"
         }
@@ -3148,7 +3148,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Prismarine Crystals",
+            "pocketmine": "Prismarine Crystals",
             "en": "Prismarine Crystals",
             "tr": "Prismarine Kristali"
         }
@@ -3167,7 +3167,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Prismarine Shard",
+            "pocketmine": "Prismarine Shard",
             "en": "Prismarine Shard",
             "tr": "Prismarine Parçacığı"
         }
@@ -3186,7 +3186,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Rabbit's Foot",
+            "pocketmine": "Rabbit's Foot",
             "en": "Rabbit's Foot",
             "tr": "Tavşan Ayağı"
         }
@@ -3205,7 +3205,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Rabbit Hide",
+            "pocketmine": "Rabbit Hide",
             "en": "Rabbit Hide",
             "tr": "Tavşan Postu"
         }
@@ -3224,7 +3224,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Shulker Shell",
+            "pocketmine": "Shulker Shell",
             "en": "Shulker Shell",
             "tr": "Shulker Kabuğu"
         }
@@ -3243,7 +3243,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Slimeball",
+            "pocketmine": "Slimeball",
             "en": "Slimeball",
             "tr": "Balçık Topu"
         }
@@ -3262,7 +3262,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Sugar",
+            "pocketmine": "Sugar",
             "en": "Sugar",
             "tr": "Şeker"
         }
@@ -3281,7 +3281,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Scute",
+            "pocketmine": "Scute",
             "en": "Scute",
             "tr": "Sırt Pulu"
         }
@@ -3300,7 +3300,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Wheat",
+            "pocketmine": "Wheat",
             "en": "Wheat",
             "tr": "Buğday"
         }
@@ -3319,7 +3319,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Acacia Door",
+            "pocketmine": "Acacia Door",
             "en": "Acacia Door",
             "tr": "Akasya Kapı"
         }
@@ -3338,7 +3338,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Birch Door",
+            "pocketmine": "Birch Door",
             "en": "Birch Door",
             "tr": "Huş Ağacı Kapı"
         }
@@ -3357,7 +3357,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Brewing Stand",
+            "pocketmine": "Brewing Stand",
             "en": "Brewing Stand",
             "tr": "Simya Standı"
         }
@@ -3376,7 +3376,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Cake",
+            "pocketmine": "Cake",
             "en": "Cake",
             "tr": "Kek"
         }
@@ -3395,7 +3395,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Redstone Comparator",
+            "pocketmine": "Redstone Comparator",
             "en": "Redstone Comparator",
             "tr": "Redstone Karşılaştırıcı"
         }
@@ -3414,7 +3414,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Dark Oak Door",
+            "pocketmine": "Dark Oak Door",
             "en": "Dark Oak Door",
             "tr": "Koyu Meşe Kapı"
         }
@@ -3433,7 +3433,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Flower Pot",
+            "pocketmine": "Flower Pot",
             "en": "Flower Pot",
             "tr": "Çiçek Saksısı"
         }
@@ -3452,7 +3452,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Hopper",
+            "pocketmine": "Hopper",
             "en": "Hopper",
             "tr": "Huni"
         }
@@ -3471,7 +3471,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Iron Door",
+            "pocketmine": "Iron Door",
             "en": "Iron Door",
             "tr": "Demir Kapı"
         }
@@ -3490,7 +3490,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Item Frame",
+            "pocketmine": "Item Frame",
             "en": "Item Frame",
             "tr": "Eşya Çerçevesi"
         }
@@ -3509,7 +3509,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Jungle Door",
+            "pocketmine": "Jungle Door",
             "en": "Jungle Door",
             "tr": "Büyük Orman Kapısı"
         }
@@ -3528,7 +3528,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Nether Wart",
+            "pocketmine": "Nether Wart",
             "en": "Nether Wart",
             "tr": "Nether Wart"
         }
@@ -3547,7 +3547,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Oak Door",
+            "pocketmine": "Oak Door",
             "en": "Oak Door",
             "tr": "Meşe Kapı"
         }
@@ -3566,7 +3566,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Redstone Repeater",
+            "pocketmine": "Redstone Repeater",
             "en": "Redstone Repeater",
             "tr": "Redstone Yineleyici"
         }
@@ -3585,7 +3585,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Spruce Door",
+            "pocketmine": "Spruce Door",
             "en": "Spruce Door",
             "tr": "Çam Kapı"
         }
@@ -3604,7 +3604,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Sugarcane",
+            "pocketmine": "Sugarcane",
             "en": "Sugar Canes",
             "tr": "Şeker Kamışları"
         }
@@ -3623,7 +3623,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Water Bucket",
+            "pocketmine": "Water Bucket",
             "en": "Water Bucket",
             "tr": "Su Kovası"
         }
@@ -3642,7 +3642,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Water Bucket",
+            "pocketmine": "Water Bucket",
             "en": "Water Bucket",
             "tr": "Su Kovası"
         }
@@ -3661,7 +3661,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Lava Bucket",
+            "pocketmine": "Lava Bucket",
             "en": "Lava Bucket",
             "tr": "Lav Kovası"
         }
@@ -3680,7 +3680,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Lava Bucket",
+            "pocketmine": "Lava Bucket",
             "en": "Lava Bucket",
             "tr": "Lav Kovası"
         }
@@ -3699,7 +3699,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Melon",
+            "pocketmine": "Melon",
             "en": "Melon",
             "tr": "Karpuz"
         }
@@ -3718,7 +3718,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Melon Seeds",
+            "pocketmine": "Melon Seeds",
             "en": "Melon Seeds",
             "tr": "Karpuz Tohumu"
         }
@@ -3737,7 +3737,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Milk Bucket",
+            "pocketmine": "Milk Bucket",
             "en": "Milk",
             "tr": "Süt"
         }
@@ -3756,7 +3756,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Minecart",
+            "pocketmine": "Minecart",
             "en": "Minecart",
             "tr": "Maden arabası"
         }
@@ -3775,7 +3775,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Mushroom Stew",
+            "pocketmine": "Mushroom Stew",
             "en": "Mushroom Stew",
             "tr": "Mantar Yemeği"
         }
@@ -3794,7 +3794,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Painting",
+            "pocketmine": "Painting",
             "en": "Painting",
             "tr": "Tuval"
         }
@@ -3813,7 +3813,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Poisonous Potato",
+            "pocketmine": "Poisonous Potato",
             "en": "Poisonous Potato",
             "tr": "Zehirli Patates"
         }
@@ -3832,7 +3832,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Potato",
+            "pocketmine": "Potato",
             "en": "Potato",
             "tr": "Patates"
         }
@@ -3851,7 +3851,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Pufferfish",
+            "pocketmine": "Pufferfish",
             "en": "Pufferfish",
             "tr": "Kirpi Balığı"
         }
@@ -3870,7 +3870,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Pumpkin Pie",
+            "pocketmine": "Pumpkin Pie",
             "en": "Pumpkin Pie",
             "tr": "Balkabağı Turtası"
         }
@@ -3889,7 +3889,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Pumpkin Seeds",
+            "pocketmine": "Pumpkin Seeds",
             "en": "Pumpkin Seeds",
             "tr": "Balkabağı Tohumları"
         }
@@ -3908,7 +3908,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Rabbit Stew",
+            "pocketmine": "Rabbit Stew",
             "en": "Rabbit Stew",
             "tr": "Tavşan Yemeği"
         }
@@ -3927,7 +3927,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Raw Beef",
+            "pocketmine": "Raw Beef",
             "en": "Raw Beef",
             "tr": "Çiğ Sığır Eti"
         }
@@ -3946,7 +3946,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Raw Chicken",
+            "pocketmine": "Raw Chicken",
             "en": "Raw Chicken",
             "tr": "Çiğ Tavuk"
         }
@@ -3965,7 +3965,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Raw Fish",
+            "pocketmine": "Raw Fish",
             "en": "Raw Cod",
             "tr": "Çiğ Morina"
         }
@@ -3984,7 +3984,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Raw Mutton",
+            "pocketmine": "Raw Mutton",
             "en": "Raw Mutton",
             "tr": "Çiğ Koyun Eti"
         }
@@ -4003,7 +4003,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Raw Porkchop",
+            "pocketmine": "Raw Porkchop",
             "en": "Raw Porkchop",
             "tr": "Çiğ Domuz Pirzolası"
         }
@@ -4022,7 +4022,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Raw Rabbit",
+            "pocketmine": "Raw Rabbit",
             "en": "Raw Rabbit",
             "tr": "Çiğ Tavşan Eti"
         }
@@ -4041,7 +4041,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Raw Salmon",
+            "pocketmine": "Raw Salmon",
             "en": "Raw Salmon",
             "tr": "Çiğ Somon Balığı"
         }
@@ -4060,7 +4060,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Record 13",
+            "pocketmine": "Record 13",
             "en": "Music Disc",
             "tr": "Müzik Diski"
         }
@@ -4079,7 +4079,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Record Cat",
+            "pocketmine": "Record Cat",
             "en": "Music Disc",
             "tr": "Müzik Diski"
         }
@@ -4098,7 +4098,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Record Blocks",
+            "pocketmine": "Record Blocks",
             "en": "Music Disc",
             "tr": "Müzik Diski"
         }
@@ -4117,7 +4117,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Record Chirp",
+            "pocketmine": "Record Chirp",
             "en": "Music Disc",
             "tr": "Müzik Diski"
         }
@@ -4136,7 +4136,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Record Far",
+            "pocketmine": "Record Far",
             "en": "Music Disc",
             "tr": "Müzik Diski"
         }
@@ -4155,7 +4155,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Record Mall",
+            "pocketmine": "Record Mall",
             "en": "Music Disc",
             "tr": "Müzik Diski"
         }
@@ -4174,7 +4174,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Record Mellohi",
+            "pocketmine": "Record Mellohi",
             "en": "Music Disc",
             "tr": "Müzik Diski"
         }
@@ -4193,7 +4193,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Record Stal",
+            "pocketmine": "Record Stal",
             "en": "Music Disc",
             "tr": "Müzik Diski"
         }
@@ -4212,7 +4212,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Record Strad",
+            "pocketmine": "Record Strad",
             "en": "Music Disc",
             "tr": "Müzik Diski"
         }
@@ -4231,7 +4231,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Record Ward",
+            "pocketmine": "Record Ward",
             "en": "Music Disc",
             "tr": "Müzik Diski"
         }
@@ -4250,7 +4250,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Record 11",
+            "pocketmine": "Record 11",
             "en": "Music Disc",
             "tr": "Müzik Diski"
         }
@@ -4269,7 +4269,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Record Wait",
+            "pocketmine": "Record Wait",
             "en": "Music Disc",
             "tr": "Müzik Diski"
         }
@@ -4288,7 +4288,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Redstone",
+            "pocketmine": "Redstone",
             "en": "Redstone Dust",
             "tr": "Redstone Tozu"
         }
@@ -4307,7 +4307,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Rotten Flesh",
+            "pocketmine": "Rotten Flesh",
             "en": "Rotten Flesh",
             "tr": "Çürük et"
         }
@@ -4326,7 +4326,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Shears",
+            "pocketmine": "Shears",
             "en": "Shears",
             "tr": "Makas"
         }
@@ -4345,7 +4345,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Oak Sign",
+            "pocketmine": "Oak Sign",
             "en": "Oak Sign",
             "tr": "Meşe Levha"
         }
@@ -4364,7 +4364,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Spruce Sign",
+            "pocketmine": "Spruce Sign",
             "en": "Spruce Sign",
             "tr": "Çam Levha"
         }
@@ -4383,7 +4383,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Birch Sign",
+            "pocketmine": "Birch Sign",
             "en": "Birch Sign",
             "tr": "Huş Ağacı Levha"
         }
@@ -4402,7 +4402,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Jungle Sign",
+            "pocketmine": "Jungle Sign",
             "en": "Jungle Sign",
             "tr": "Büyük Orman Levha"
         }
@@ -4421,7 +4421,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Acacia Sign",
+            "pocketmine": "Acacia Sign",
             "en": "Acacia Sign",
             "tr": "Akasya Levha"
         }
@@ -4440,7 +4440,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Dark Oak Sign",
+            "pocketmine": "Dark Oak Sign",
             "en": "Dark Oak Sign",
             "tr": "Koyu Meşe Levha"
         }
@@ -4459,7 +4459,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Snowball",
+            "pocketmine": "Snowball",
             "en": "Snowball",
             "tr": "Kartopu"
         }
@@ -4478,7 +4478,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Spider Eye",
+            "pocketmine": "Spider Eye",
             "en": "Spider Eye",
             "tr": "Örümcek gözü"
         }
@@ -4497,7 +4497,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Steak",
+            "pocketmine": "Steak",
             "en": "Cooked Beef",
             "tr": "Pişmiş Biftek"
         }
@@ -4516,7 +4516,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Stick",
+            "pocketmine": "Stick",
             "en": "Stick",
             "tr": "Sopa"
         }
@@ -4535,7 +4535,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "String",
+            "pocketmine": "String",
             "en": "String",
             "tr": "İp"
         }
@@ -4554,7 +4554,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Sweet Berries",
+            "pocketmine": "Sweet Berries",
             "en": "Sweet Berries",
             "tr": "Tatlı Meyveler"
         }
@@ -4573,7 +4573,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Totem of Undying",
+            "pocketmine": "Totem of Undying",
             "en": "Totem of Undying",
             "tr": "Ölümsüzlük Totemi"
         }
@@ -4592,7 +4592,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Wheat Seeds",
+            "pocketmine": "Wheat Seeds",
             "en": "Seeds",
             "tr": "Tohumlar"
         }
@@ -4611,7 +4611,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Book & Quill",
+            "pocketmine": "Book & Quill",
             "en": "Book & Quill",
             "tr": "Kitap ve Tüy"
         }
@@ -4630,7 +4630,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Written Book",
+            "pocketmine": "Written Book",
             "en": "Written Book",
             "tr": "Yazılı Kitap"
         }
@@ -4649,7 +4649,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Skeleton Skull",
+            "pocketmine": "Skeleton Skull",
             "en": "Skeleton Skull",
             "tr": "İskelet Kafatası"
         }
@@ -4668,9 +4668,9 @@
             "meta": 1
         },
         "name": {
-            "pmmp": "Wither Skeleton Skull",
-            "en": "Skeleton Skull",
-            "tr": "İskelet Kafatası"
+            "pocketmine": "Wither Skeleton Skull",
+            "en": "Wither Skeleton Skull",
+            "tr": "Wither İskelet Kafatası"
         }
     },
     {
@@ -4687,9 +4687,9 @@
             "meta": 2
         },
         "name": {
-            "pmmp": "Zombie Head",
-            "en": "Skeleton Skull",
-            "tr": "İskelet Kafatası"
+            "pocketmine": "Zombie Head",
+            "en": "Zombie Head",
+            "tr": "Zombi Kafası"
         }
     },
     {
@@ -4706,9 +4706,9 @@
             "meta": 3
         },
         "name": {
-            "pmmp": "Player Head",
-            "en": "Skeleton Skull",
-            "tr": "İskelet Kafatası"
+            "pocketmine": "Player Head",
+            "en": "Head",
+            "tr": "Kafa"
         }
     },
     {
@@ -4725,9 +4725,9 @@
             "meta": 4
         },
         "name": {
-            "pmmp": "Creeper Head",
-            "en": "Skeleton Skull",
-            "tr": "İskelet Kafatası"
+            "pocketmine": "Creeper Head",
+            "en": "Creeper Head",
+            "tr": "Creeper Kafası"
         }
     },
     {
@@ -4744,9 +4744,9 @@
             "meta": 5
         },
         "name": {
-            "pmmp": "Dragon Head",
-            "en": "Skeleton Skull",
-            "tr": "İskelet Kafatası"
+            "pocketmine": "Dragon Head",
+            "en": "Dragon Head",
+            "tr": "Ejderha Kafası"
         }
     },
     {
@@ -4763,7 +4763,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "White Dye",
+            "pocketmine": "White Dye",
             "en": "White Dye",
             "tr": "Beyaz Boya"
         }
@@ -4782,7 +4782,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "White Bed",
+            "pocketmine": "White Bed",
             "en": "White Bed",
             "tr": "Beyaz Yatak"
         }
@@ -4801,9 +4801,9 @@
             "meta": 15
         },
         "name": {
-            "pmmp": "Banner",
-            "en": "Black Banner",
-            "tr": "Siyah Flama"
+            "pocketmine": "Banner",
+            "en": "White Banner",
+            "tr": "Beyaz Flama"
         }
     },
     {
@@ -4820,7 +4820,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Orange Dye",
+            "pocketmine": "Orange Dye",
             "en": "Orange Dye",
             "tr": "Turuncu Boya"
         }
@@ -4839,9 +4839,9 @@
             "meta": 1
         },
         "name": {
-            "pmmp": "Orange Bed",
-            "en": "White Bed",
-            "tr": "Beyaz Yatak"
+            "pocketmine": "Orange Bed",
+            "en": "Orange Bed",
+            "tr": "Turuncu Yatak"
         }
     },
     {
@@ -4858,9 +4858,9 @@
             "meta": 14
         },
         "name": {
-            "pmmp": "Banner",
-            "en": "Black Banner",
-            "tr": "Siyah Flama"
+            "pocketmine": "Banner",
+            "en": "Orange Banner",
+            "tr": "Turuncu Flama"
         }
     },
     {
@@ -4877,7 +4877,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Magenta Dye",
+            "pocketmine": "Magenta Dye",
             "en": "Magenta Dye",
             "tr": "Eflatun Boya"
         }
@@ -4896,9 +4896,9 @@
             "meta": 2
         },
         "name": {
-            "pmmp": "Magenta Bed",
-            "en": "White Bed",
-            "tr": "Beyaz Yatak"
+            "pocketmine": "Magenta Bed",
+            "en": "Magenta Bed",
+            "tr": "Eflatun Yatak"
         }
     },
     {
@@ -4915,9 +4915,9 @@
             "meta": 13
         },
         "name": {
-            "pmmp": "Banner",
-            "en": "Black Banner",
-            "tr": "Siyah Flama"
+            "pocketmine": "Banner",
+            "en": "Magenta Banner",
+            "tr": "Eflatun Flama"
         }
     },
     {
@@ -4934,7 +4934,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Light Blue Dye",
+            "pocketmine": "Light Blue Dye",
             "en": "Light Blue Dye",
             "tr": "Açık Mavi Boya"
         }
@@ -4953,9 +4953,9 @@
             "meta": 3
         },
         "name": {
-            "pmmp": "Light Blue Bed",
-            "en": "White Bed",
-            "tr": "Beyaz Yatak"
+            "pocketmine": "Light Blue Bed",
+            "en": "Light Blue Bed",
+            "tr": "Açık Mavi Yatak"
         }
     },
     {
@@ -4972,9 +4972,9 @@
             "meta": 12
         },
         "name": {
-            "pmmp": "Banner",
-            "en": "Black Banner",
-            "tr": "Siyah Flama"
+            "pocketmine": "Banner",
+            "en": "Light Blue Banner",
+            "tr": "Açık Mavi Flama"
         }
     },
     {
@@ -4991,7 +4991,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Yellow Dye",
+            "pocketmine": "Yellow Dye",
             "en": "Yellow Dye",
             "tr": "Sarı Boya"
         }
@@ -5010,9 +5010,9 @@
             "meta": 4
         },
         "name": {
-            "pmmp": "Yellow Bed",
-            "en": "White Bed",
-            "tr": "Beyaz Yatak"
+            "pocketmine": "Yellow Bed",
+            "en": "Yellow Bed",
+            "tr": "Sarı Yatak"
         }
     },
     {
@@ -5029,9 +5029,9 @@
             "meta": 11
         },
         "name": {
-            "pmmp": "Banner",
-            "en": "Black Banner",
-            "tr": "Siyah Flama"
+            "pocketmine": "Banner",
+            "en": "Yellow Banner",
+            "tr": "Sarı Flama"
         }
     },
     {
@@ -5048,7 +5048,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Lime Dye",
+            "pocketmine": "Lime Dye",
             "en": "Lime Dye",
             "tr": "Açık Yeşil Boya"
         }
@@ -5067,9 +5067,9 @@
             "meta": 5
         },
         "name": {
-            "pmmp": "Lime Bed",
-            "en": "White Bed",
-            "tr": "Beyaz Yatak"
+            "pocketmine": "Lime Bed",
+            "en": "Lime Bed",
+            "tr": "Açık Yeşil Yatak"
         }
     },
     {
@@ -5086,9 +5086,9 @@
             "meta": 10
         },
         "name": {
-            "pmmp": "Banner",
-            "en": "Black Banner",
-            "tr": "Siyah Flama"
+            "pocketmine": "Banner",
+            "en": "Lime Banner",
+            "tr": "Açık Yeşil Flama"
         }
     },
     {
@@ -5105,7 +5105,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Pink Dye",
+            "pocketmine": "Pink Dye",
             "en": "Pink Dye",
             "tr": "Pembe Boya"
         }
@@ -5124,9 +5124,9 @@
             "meta": 6
         },
         "name": {
-            "pmmp": "Pink Bed",
-            "en": "White Bed",
-            "tr": "Beyaz Yatak"
+            "pocketmine": "Pink Bed",
+            "en": "Pink Bed",
+            "tr": "Pembe Yatak"
         }
     },
     {
@@ -5143,9 +5143,9 @@
             "meta": 9
         },
         "name": {
-            "pmmp": "Banner",
-            "en": "Black Banner",
-            "tr": "Siyah Flama"
+            "pocketmine": "Banner",
+            "en": "Pink Banner",
+            "tr": "Pembe Flama"
         }
     },
     {
@@ -5162,7 +5162,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Gray Dye",
+            "pocketmine": "Gray Dye",
             "en": "Gray Dye",
             "tr": "Gri Boya"
         }
@@ -5181,9 +5181,9 @@
             "meta": 7
         },
         "name": {
-            "pmmp": "Gray Bed",
-            "en": "White Bed",
-            "tr": "Beyaz Yatak"
+            "pocketmine": "Gray Bed",
+            "en": "Gray Bed",
+            "tr": "Gri Yatak"
         }
     },
     {
@@ -5200,9 +5200,9 @@
             "meta": 8
         },
         "name": {
-            "pmmp": "Banner",
-            "en": "Black Banner",
-            "tr": "Siyah Flama"
+            "pocketmine": "Banner",
+            "en": "Gray Banner",
+            "tr": "Gri Flama"
         }
     },
     {
@@ -5219,7 +5219,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Light Gray Dye",
+            "pocketmine": "Light Gray Dye",
             "en": "Light Gray Dye",
             "tr": "Açık Gri Boya"
         }
@@ -5238,9 +5238,9 @@
             "meta": 8
         },
         "name": {
-            "pmmp": "Light Gray Bed",
-            "en": "White Bed",
-            "tr": "Beyaz Yatak"
+            "pocketmine": "Light Gray Bed",
+            "en": "Light Gray Bed",
+            "tr": "Açık Gri Yatak"
         }
     },
     {
@@ -5257,9 +5257,9 @@
             "meta": 7
         },
         "name": {
-            "pmmp": "Banner",
-            "en": "Black Banner",
-            "tr": "Siyah Flama"
+            "pocketmine": "Banner",
+            "en": "Light Gray Banner",
+            "tr": "Açık Gri Flama"
         }
     },
     {
@@ -5276,7 +5276,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Cyan Dye",
+            "pocketmine": "Cyan Dye",
             "en": "Cyan Dye",
             "tr": "Camgöbeği Boya"
         }
@@ -5295,9 +5295,9 @@
             "meta": 9
         },
         "name": {
-            "pmmp": "Cyan Bed",
-            "en": "White Bed",
-            "tr": "Beyaz Yatak"
+            "pocketmine": "Cyan Bed",
+            "en": "Cyan Bed",
+            "tr": "Camgöbeği Yatak"
         }
     },
     {
@@ -5314,9 +5314,9 @@
             "meta": 6
         },
         "name": {
-            "pmmp": "Banner",
-            "en": "Black Banner",
-            "tr": "Siyah Flama"
+            "pocketmine": "Banner",
+            "en": "Cyan Banner",
+            "tr": "Camgöbeği Flama"
         }
     },
     {
@@ -5333,7 +5333,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Purple Dye",
+            "pocketmine": "Purple Dye",
             "en": "Purple Dye",
             "tr": "Mor Boya"
         }
@@ -5352,9 +5352,9 @@
             "meta": 10
         },
         "name": {
-            "pmmp": "Purple Bed",
-            "en": "White Bed",
-            "tr": "Beyaz Yatak"
+            "pocketmine": "Purple Bed",
+            "en": "Purple Bed",
+            "tr": "Mor Yatak"
         }
     },
     {
@@ -5371,9 +5371,9 @@
             "meta": 5
         },
         "name": {
-            "pmmp": "Banner",
-            "en": "Black Banner",
-            "tr": "Siyah Flama"
+            "pocketmine": "Banner",
+            "en": "Purple Banner",
+            "tr": "Mor Flama"
         }
     },
     {
@@ -5390,7 +5390,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Blue Dye",
+            "pocketmine": "Blue Dye",
             "en": "Blue Dye",
             "tr": "Mavi Boya"
         }
@@ -5409,9 +5409,9 @@
             "meta": 11
         },
         "name": {
-            "pmmp": "Blue Bed",
-            "en": "White Bed",
-            "tr": "Beyaz Yatak"
+            "pocketmine": "Blue Bed",
+            "en": "Blue Bed",
+            "tr": "Mavi Yatak"
         }
     },
     {
@@ -5428,9 +5428,9 @@
             "meta": 4
         },
         "name": {
-            "pmmp": "Banner",
-            "en": "Black Banner",
-            "tr": "Siyah Flama"
+            "pocketmine": "Banner",
+            "en": "Blue Banner",
+            "tr": "Mavi Flama"
         }
     },
     {
@@ -5447,7 +5447,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Brown Dye",
+            "pocketmine": "Brown Dye",
             "en": "Brown Dye",
             "tr": "Kahverengi Boya"
         }
@@ -5466,9 +5466,9 @@
             "meta": 12
         },
         "name": {
-            "pmmp": "Brown Bed",
-            "en": "White Bed",
-            "tr": "Beyaz Yatak"
+            "pocketmine": "Brown Bed",
+            "en": "Brown Bed",
+            "tr": "Kahverengi Yatak"
         }
     },
     {
@@ -5485,9 +5485,9 @@
             "meta": 3
         },
         "name": {
-            "pmmp": "Banner",
-            "en": "Black Banner",
-            "tr": "Siyah Flama"
+            "pocketmine": "Banner",
+            "en": "Brown Banner",
+            "tr": "Kahverengi Flama"
         }
     },
     {
@@ -5504,7 +5504,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Green Dye",
+            "pocketmine": "Green Dye",
             "en": "Green Dye",
             "tr": "Yeşil Boya"
         }
@@ -5523,9 +5523,9 @@
             "meta": 13
         },
         "name": {
-            "pmmp": "Green Bed",
-            "en": "White Bed",
-            "tr": "Beyaz Yatak"
+            "pocketmine": "Green Bed",
+            "en": "Green Bed",
+            "tr": "Yeşil Yatak"
         }
     },
     {
@@ -5542,9 +5542,9 @@
             "meta": 2
         },
         "name": {
-            "pmmp": "Banner",
-            "en": "Black Banner",
-            "tr": "Siyah Flama"
+            "pocketmine": "Banner",
+            "en": "Green Banner",
+            "tr": "Yeşil Flama"
         }
     },
     {
@@ -5561,7 +5561,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Red Dye",
+            "pocketmine": "Red Dye",
             "en": "Red Dye",
             "tr": "Kırmızı Boya"
         }
@@ -5580,9 +5580,9 @@
             "meta": 14
         },
         "name": {
-            "pmmp": "Red Bed",
-            "en": "White Bed",
-            "tr": "Beyaz Yatak"
+            "pocketmine": "Red Bed",
+            "en": "Red Bed",
+            "tr": "Kırmızı Yatak"
         }
     },
     {
@@ -5599,9 +5599,9 @@
             "meta": 1
         },
         "name": {
-            "pmmp": "Banner",
-            "en": "Black Banner",
-            "tr": "Siyah Flama"
+            "pocketmine": "Banner",
+            "en": "Red Banner",
+            "tr": "Kırmızı Flama"
         }
     },
     {
@@ -5618,7 +5618,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Black Dye",
+            "pocketmine": "Black Dye",
             "en": "Black Dye",
             "tr": "Siyah Boya"
         }
@@ -5637,9 +5637,9 @@
             "meta": 15
         },
         "name": {
-            "pmmp": "Black Bed",
-            "en": "White Bed",
-            "tr": "Beyaz Yatak"
+            "pocketmine": "Black Bed",
+            "en": "Black Bed",
+            "tr": "Siyah Yatak"
         }
     },
     {
@@ -5656,7 +5656,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Banner",
+            "pocketmine": "Banner",
             "en": "Black Banner",
             "tr": "Siyah Flama"
         }
@@ -5675,7 +5675,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Water Potion",
+            "pocketmine": "Water Potion",
             "en": "Water Bottle",
             "tr": "Su Şişesi"
         }
@@ -5694,7 +5694,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Water Splash Potion",
+            "pocketmine": "Water Splash Potion",
             "en": "Splash Water Bottle",
             "tr": "Sıçrayan Su Şişesi"
         }
@@ -5713,9 +5713,9 @@
             "meta": 1
         },
         "name": {
-            "pmmp": "Mundane Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Mundane Potion",
+            "en": "Mundane Potion",
+            "tr": "Sıradan İksir"
         }
     },
     {
@@ -5732,9 +5732,9 @@
             "meta": 1
         },
         "name": {
-            "pmmp": "Mundane Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Mundane Splash Potion",
+            "en": "Splash Mundane Potion",
+            "tr": "Sıçrayan Sıradan İksir"
         }
     },
     {
@@ -5751,9 +5751,9 @@
             "meta": 2
         },
         "name": {
-            "pmmp": "Long Mundane Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Long Mundane Potion",
+            "en": "Long Mundane Potion",
+            "tr": "Uzun Sıradan İksir"
         }
     },
     {
@@ -5770,9 +5770,9 @@
             "meta": 2
         },
         "name": {
-            "pmmp": "Long Mundane Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Long Mundane Splash Potion",
+            "en": "Splash Long Mundane Potion",
+            "tr": "Sıçrayan Uzun Sıradan İksir"
         }
     },
     {
@@ -5789,9 +5789,9 @@
             "meta": 3
         },
         "name": {
-            "pmmp": "Thick Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Thick Potion",
+            "en": "Thick Potion",
+            "tr": "Anlaşılmaz İksir"
         }
     },
     {
@@ -5808,9 +5808,9 @@
             "meta": 3
         },
         "name": {
-            "pmmp": "Thick Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Thick Splash Potion",
+            "en": "Splash Thick Potion",
+            "tr": "Sıçrayan Anlaşılmaz İksir"
         }
     },
     {
@@ -5827,9 +5827,9 @@
             "meta": 4
         },
         "name": {
-            "pmmp": "Awkward Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Awkward Potion",
+            "en": "Awkward Potion",
+            "tr": "Etkisiz İksir"
         }
     },
     {
@@ -5846,9 +5846,9 @@
             "meta": 4
         },
         "name": {
-            "pmmp": "Awkward Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Awkward Splash Potion",
+            "en": "Splash Awkward Potion",
+            "tr": "Sıçrayan Etkisiz İksir"
         }
     },
     {
@@ -5865,9 +5865,9 @@
             "meta": 5
         },
         "name": {
-            "pmmp": "Night Vision Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Night Vision Potion",
+            "en": "Potion of Night Vision",
+            "tr": "Gece Görüşü İksiri"
         }
     },
     {
@@ -5884,9 +5884,9 @@
             "meta": 5
         },
         "name": {
-            "pmmp": "Night Vision Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Night Vision Splash Potion",
+            "en": "Splash Potion of Night Vision",
+            "tr": "Sıçrayan Gece Görüşü İksiri"
         }
     },
     {
@@ -5903,9 +5903,9 @@
             "meta": 6
         },
         "name": {
-            "pmmp": "Long Night Vision Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Long Night Vision Potion",
+            "en": "Potion of Night Vision",
+            "tr": "Gece Görüşü İksiri"
         }
     },
     {
@@ -5922,9 +5922,9 @@
             "meta": 6
         },
         "name": {
-            "pmmp": "Long Night Vision Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Long Night Vision Splash Potion",
+            "en": "Splash Potion of Night Vision",
+            "tr": "Sıçrayan Gece Görüşü İksiri"
         }
     },
     {
@@ -5941,9 +5941,9 @@
             "meta": 7
         },
         "name": {
-            "pmmp": "Invisibility Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Invisibility Potion",
+            "en": "Potion of Invisibility",
+            "tr": "Görünmezlik İksiri"
         }
     },
     {
@@ -5960,9 +5960,9 @@
             "meta": 7
         },
         "name": {
-            "pmmp": "Invisibility Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Invisibility Splash Potion",
+            "en": "Splash Potion of Invisibility",
+            "tr": "Sıçrayan Görünmezlik İksiri"
         }
     },
     {
@@ -5979,9 +5979,9 @@
             "meta": 8
         },
         "name": {
-            "pmmp": "Long Invisibility Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Long Invisibility Potion",
+            "en": "Potion of Invisibility",
+            "tr": "Görünmezlik İksiri"
         }
     },
     {
@@ -5998,9 +5998,9 @@
             "meta": 8
         },
         "name": {
-            "pmmp": "Long Invisibility Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Long Invisibility Splash Potion",
+            "en": "Splash Potion of Invisibility",
+            "tr": "Sıçrayan Görünmezlik İksiri"
         }
     },
     {
@@ -6017,9 +6017,9 @@
             "meta": 9
         },
         "name": {
-            "pmmp": "Leaping Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Leaping Potion",
+            "en": "Potion of Leaping",
+            "tr": "Sıçrama İksiri"
         }
     },
     {
@@ -6036,9 +6036,9 @@
             "meta": 9
         },
         "name": {
-            "pmmp": "Leaping Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Leaping Splash Potion",
+            "en": "Splash Potion of Leaping",
+            "tr": "Sıçrayan Sıçrama İksiri"
         }
     },
     {
@@ -6055,9 +6055,9 @@
             "meta": 10
         },
         "name": {
-            "pmmp": "Long Leaping Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Long Leaping Potion",
+            "en": "Potion of Leaping",
+            "tr": "Sıçrama İksiri"
         }
     },
     {
@@ -6074,9 +6074,9 @@
             "meta": 10
         },
         "name": {
-            "pmmp": "Long Leaping Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Long Leaping Splash Potion",
+            "en": "Splash Potion of Leaping",
+            "tr": "Sıçrayan Sıçrama İksiri"
         }
     },
     {
@@ -6093,9 +6093,9 @@
             "meta": 11
         },
         "name": {
-            "pmmp": "Strong Leaping Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Strong Leaping Potion",
+            "en": "Potion of Leaping",
+            "tr": "Sıçrama İksiri"
         }
     },
     {
@@ -6112,9 +6112,9 @@
             "meta": 11
         },
         "name": {
-            "pmmp": "Strong Leaping Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Strong Leaping Splash Potion",
+            "en": "Splash Potion of Leaping",
+            "tr": "Sıçrayan Sıçrama İksiri"
         }
     },
     {
@@ -6131,9 +6131,9 @@
             "meta": 12
         },
         "name": {
-            "pmmp": "Fire Resistance Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Fire Resistance Potion",
+            "en": "Potion of Fire Resistance",
+            "tr": "Ateşe Dayanıklılık İksiri"
         }
     },
     {
@@ -6150,9 +6150,9 @@
             "meta": 12
         },
         "name": {
-            "pmmp": "Fire Resistance Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Fire Resistance Splash Potion",
+            "en": "Splash Potion of Fire Resistance",
+            "tr": "Sıçrayan Ateşe Dayanıklılık İksiri"
         }
     },
     {
@@ -6169,9 +6169,9 @@
             "meta": 13
         },
         "name": {
-            "pmmp": "Long Fire Resistance Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Long Fire Resistance Potion",
+            "en": "Potion of Fire Resistance",
+            "tr": "Ateşe Dayanıklılık İksiri"
         }
     },
     {
@@ -6188,9 +6188,9 @@
             "meta": 13
         },
         "name": {
-            "pmmp": "Long Fire Resistance Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Long Fire Resistance Splash Potion",
+            "en": "Splash Potion of Fire Resistance",
+            "tr": "Sıçrayan Ateşe Dayanıklılık İksiri"
         }
     },
     {
@@ -6207,9 +6207,9 @@
             "meta": 14
         },
         "name": {
-            "pmmp": "Swiftness Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Swiftness Potion",
+            "en": "Potion of Swiftness",
+            "tr": "Sürat İksiri"
         }
     },
     {
@@ -6226,9 +6226,9 @@
             "meta": 14
         },
         "name": {
-            "pmmp": "Swiftness Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Swiftness Splash Potion",
+            "en": "Splash Potion of Swiftness",
+            "tr": "Sıçrayan Sürat İksiri"
         }
     },
     {
@@ -6245,9 +6245,9 @@
             "meta": 15
         },
         "name": {
-            "pmmp": "Long Swiftness Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Long Swiftness Potion",
+            "en": "Potion of Swiftness",
+            "tr": "Sürat İksiri"
         }
     },
     {
@@ -6264,9 +6264,9 @@
             "meta": 15
         },
         "name": {
-            "pmmp": "Long Swiftness Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Long Swiftness Splash Potion",
+            "en": "Splash Potion of Swiftness",
+            "tr": "Sıçrayan Sürat İksiri"
         }
     },
     {
@@ -6283,9 +6283,9 @@
             "meta": 16
         },
         "name": {
-            "pmmp": "Strong Swiftness Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Strong Swiftness Potion",
+            "en": "Potion of Swiftness",
+            "tr": "Sürat İksiri"
         }
     },
     {
@@ -6302,9 +6302,9 @@
             "meta": 16
         },
         "name": {
-            "pmmp": "Strong Swiftness Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Strong Swiftness Splash Potion",
+            "en": "Splash Potion of Swiftness",
+            "tr": "Sıçrayan Sürat İksiri"
         }
     },
     {
@@ -6321,9 +6321,9 @@
             "meta": 17
         },
         "name": {
-            "pmmp": "Slowness Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Slowness Potion",
+            "en": "Potion of Slowness",
+            "tr": "Yavaşlık İksiri"
         }
     },
     {
@@ -6340,9 +6340,9 @@
             "meta": 17
         },
         "name": {
-            "pmmp": "Slowness Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Slowness Splash Potion",
+            "en": "Splash Potion of Slowness",
+            "tr": "Sıçrayan Yavaşlık İksiri"
         }
     },
     {
@@ -6359,9 +6359,9 @@
             "meta": 18
         },
         "name": {
-            "pmmp": "Long Slowness Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Long Slowness Potion",
+            "en": "Potion of Slowness",
+            "tr": "Yavaşlık İksiri"
         }
     },
     {
@@ -6378,9 +6378,9 @@
             "meta": 18
         },
         "name": {
-            "pmmp": "Long Slowness Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Long Slowness Splash Potion",
+            "en": "Splash Potion of Slowness",
+            "tr": "Sıçrayan Yavaşlık İksiri"
         }
     },
     {
@@ -6397,9 +6397,9 @@
             "meta": 19
         },
         "name": {
-            "pmmp": "Water Breathing Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Water Breathing Potion",
+            "en": "Potion of Water Breathing",
+            "tr": "Suda Nefes Alma İksiri"
         }
     },
     {
@@ -6416,9 +6416,9 @@
             "meta": 19
         },
         "name": {
-            "pmmp": "Water Breathing Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Water Breathing Splash Potion",
+            "en": "Splash Potion of Water Breathing",
+            "tr": "Sıçrayan Suda Nefes Alma İksiri"
         }
     },
     {
@@ -6435,9 +6435,9 @@
             "meta": 20
         },
         "name": {
-            "pmmp": "Long Water Breathing Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Long Water Breathing Potion",
+            "en": "Potion of Water Breathing",
+            "tr": "Suda Nefes Alma İksiri"
         }
     },
     {
@@ -6454,9 +6454,9 @@
             "meta": 20
         },
         "name": {
-            "pmmp": "Long Water Breathing Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Long Water Breathing Splash Potion",
+            "en": "Splash Potion of Water Breathing",
+            "tr": "Sıçrayan Suda Nefes Alma İksiri"
         }
     },
     {
@@ -6473,9 +6473,9 @@
             "meta": 21
         },
         "name": {
-            "pmmp": "Healing Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Healing Potion",
+            "en": "Potion of Healing",
+            "tr": "İyileşme İksiri"
         }
     },
     {
@@ -6492,9 +6492,9 @@
             "meta": 21
         },
         "name": {
-            "pmmp": "Healing Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Healing Splash Potion",
+            "en": "Splash Potion of Healing",
+            "tr": "Sıçrayan İyileşme İksiri"
         }
     },
     {
@@ -6511,9 +6511,9 @@
             "meta": 22
         },
         "name": {
-            "pmmp": "Strong Healing Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Strong Healing Potion",
+            "en": "Potion of Healing",
+            "tr": "İyileşme İksiri"
         }
     },
     {
@@ -6530,9 +6530,9 @@
             "meta": 22
         },
         "name": {
-            "pmmp": "Strong Healing Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Strong Healing Splash Potion",
+            "en": "Splash Potion of Healing",
+            "tr": "Sıçrayan İyileşme İksiri"
         }
     },
     {
@@ -6549,9 +6549,9 @@
             "meta": 23
         },
         "name": {
-            "pmmp": "Harming Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Harming Potion",
+            "en": "Potion of Harming",
+            "tr": "Zarar Verme İksiri"
         }
     },
     {
@@ -6568,9 +6568,9 @@
             "meta": 23
         },
         "name": {
-            "pmmp": "Harming Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Harming Splash Potion",
+            "en": "Splash Potion of Harming",
+            "tr": "Sıçrayan Zarar Verme İksiri"
         }
     },
     {
@@ -6587,9 +6587,9 @@
             "meta": 24
         },
         "name": {
-            "pmmp": "Strong Harming Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Strong Harming Potion",
+            "en": "Potion of Harming",
+            "tr": "Zarar Verme İksiri"
         }
     },
     {
@@ -6606,9 +6606,9 @@
             "meta": 24
         },
         "name": {
-            "pmmp": "Strong Harming Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Strong Harming Splash Potion",
+            "en": "Splash Potion of Harming",
+            "tr": "Sıçrayan Zarar Verme İksiri"
         }
     },
     {
@@ -6625,9 +6625,9 @@
             "meta": 25
         },
         "name": {
-            "pmmp": "Poison Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Poison Potion",
+            "en": "Potion of Poison",
+            "tr": "Zehir İksiri"
         }
     },
     {
@@ -6644,9 +6644,9 @@
             "meta": 25
         },
         "name": {
-            "pmmp": "Poison Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Poison Splash Potion",
+            "en": "Splash Potion of Poison",
+            "tr": "Sıçrayan Zehir İksiri"
         }
     },
     {
@@ -6663,9 +6663,9 @@
             "meta": 26
         },
         "name": {
-            "pmmp": "Long Poison Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Long Poison Potion",
+            "en": "Potion of Poison",
+            "tr": "Zehir İksiri"
         }
     },
     {
@@ -6682,9 +6682,9 @@
             "meta": 26
         },
         "name": {
-            "pmmp": "Long Poison Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Long Poison Splash Potion",
+            "en": "Splash Potion of Poison",
+            "tr": "Sıçrayan Zehir İksiri"
         }
     },
     {
@@ -6701,9 +6701,9 @@
             "meta": 27
         },
         "name": {
-            "pmmp": "Strong Poison Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Strong Poison Potion",
+            "en": "Potion of Poison",
+            "tr": "Zehir İksiri"
         }
     },
     {
@@ -6720,9 +6720,9 @@
             "meta": 27
         },
         "name": {
-            "pmmp": "Strong Poison Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Strong Poison Splash Potion",
+            "en": "Splash Potion of Poison",
+            "tr": "Sıçrayan Zehir İksiri"
         }
     },
     {
@@ -6739,9 +6739,9 @@
             "meta": 28
         },
         "name": {
-            "pmmp": "Regeneration Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Regeneration Potion",
+            "en": "Potion of Regeneration",
+            "tr": "Yenilenme İksiri"
         }
     },
     {
@@ -6758,9 +6758,9 @@
             "meta": 28
         },
         "name": {
-            "pmmp": "Regeneration Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Regeneration Splash Potion",
+            "en": "Splash Potion of Regeneration",
+            "tr": "Sıçrayan Yenilenme İksiri"
         }
     },
     {
@@ -6777,9 +6777,9 @@
             "meta": 29
         },
         "name": {
-            "pmmp": "Long Regeneration Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Long Regeneration Potion",
+            "en": "Potion of Regeneration",
+            "tr": "Yenilenme İksiri"
         }
     },
     {
@@ -6796,9 +6796,9 @@
             "meta": 29
         },
         "name": {
-            "pmmp": "Long Regeneration Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Long Regeneration Splash Potion",
+            "en": "Splash Potion of Regeneration",
+            "tr": "Sıçrayan Yenilenme İksiri"
         }
     },
     {
@@ -6815,9 +6815,9 @@
             "meta": 30
         },
         "name": {
-            "pmmp": "Strong Regeneration Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Strong Regeneration Potion",
+            "en": "Potion of Regeneration",
+            "tr": "Yenilenme İksiri"
         }
     },
     {
@@ -6834,9 +6834,9 @@
             "meta": 30
         },
         "name": {
-            "pmmp": "Strong Regeneration Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Strong Regeneration Splash Potion",
+            "en": "Splash Potion of Regeneration",
+            "tr": "Sıçrayan Yenilenme İksiri"
         }
     },
     {
@@ -6853,9 +6853,9 @@
             "meta": 31
         },
         "name": {
-            "pmmp": "Strength Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Strength Potion",
+            "en": "Potion of Strength",
+            "tr": "Kuvvet İksiri"
         }
     },
     {
@@ -6872,9 +6872,9 @@
             "meta": 31
         },
         "name": {
-            "pmmp": "Strength Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Strength Splash Potion",
+            "en": "Splash Potion of Strength",
+            "tr": "Sıçrayan Kuvvet İksiri"
         }
     },
     {
@@ -6891,9 +6891,9 @@
             "meta": 32
         },
         "name": {
-            "pmmp": "Long Strength Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Long Strength Potion",
+            "en": "Potion of Strength",
+            "tr": "Kuvvet İksiri"
         }
     },
     {
@@ -6910,9 +6910,9 @@
             "meta": 32
         },
         "name": {
-            "pmmp": "Long Strength Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Long Strength Splash Potion",
+            "en": "Splash Potion of Strength",
+            "tr": "Sıçrayan Kuvvet İksiri"
         }
     },
     {
@@ -6929,9 +6929,9 @@
             "meta": 33
         },
         "name": {
-            "pmmp": "Strong Strength Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Strong Strength Potion",
+            "en": "Potion of Strength",
+            "tr": "Kuvvet İksiri"
         }
     },
     {
@@ -6948,9 +6948,9 @@
             "meta": 33
         },
         "name": {
-            "pmmp": "Strong Strength Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Strong Strength Splash Potion",
+            "en": "Splash Potion of Strength",
+            "tr": "Sıçrayan Kuvvet İksiri"
         }
     },
     {
@@ -6967,9 +6967,9 @@
             "meta": 34
         },
         "name": {
-            "pmmp": "Weakness Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Weakness Potion",
+            "en": "Potion of Weakness",
+            "tr": "Zayıflık İksiri"
         }
     },
     {
@@ -6986,9 +6986,9 @@
             "meta": 34
         },
         "name": {
-            "pmmp": "Weakness Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Weakness Splash Potion",
+            "en": "Splash Potion of Weakness",
+            "tr": "Sıçrayan Zayıflık İksiri"
         }
     },
     {
@@ -7005,9 +7005,9 @@
             "meta": 35
         },
         "name": {
-            "pmmp": "Long Weakness Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Long Weakness Potion",
+            "en": "Potion of Weakness",
+            "tr": "Zayıflık İksiri"
         }
     },
     {
@@ -7024,9 +7024,9 @@
             "meta": 35
         },
         "name": {
-            "pmmp": "Long Weakness Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Long Weakness Splash Potion",
+            "en": "Splash Potion of Weakness",
+            "tr": "Sıçrayan Zayıflık İksiri"
         }
     },
     {
@@ -7043,9 +7043,9 @@
             "meta": 36
         },
         "name": {
-            "pmmp": "Wither Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Wither Potion",
+            "en": "Potion of Decay",
+            "tr": "Zayıflama İksiri"
         }
     },
     {
@@ -7062,9 +7062,9 @@
             "meta": 36
         },
         "name": {
-            "pmmp": "Wither Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Wither Splash Potion",
+            "en": "Splash Potion of Decay",
+            "tr": "Sıçrayan Zayıflama İksiri"
         }
     },
     {
@@ -7081,9 +7081,9 @@
             "meta": 37
         },
         "name": {
-            "pmmp": "Turtle Master Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Turtle Master Potion",
+            "en": "Potion of the Turtle Master",
+            "tr": "Kaplumbağa Ustasının İksiri"
         }
     },
     {
@@ -7100,9 +7100,9 @@
             "meta": 37
         },
         "name": {
-            "pmmp": "Turtle Master Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Turtle Master Splash Potion",
+            "en": "Splash Potion of the Turtle Master",
+            "tr": "Kaplumbağa Ustasının Sıçrayan İksiri"
         }
     },
     {
@@ -7119,9 +7119,9 @@
             "meta": 38
         },
         "name": {
-            "pmmp": "Long Turtle Master Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Long Turtle Master Potion",
+            "en": "Potion of the Turtle Master",
+            "tr": "Kaplumbağa Ustasının İksiri"
         }
     },
     {
@@ -7138,9 +7138,9 @@
             "meta": 38
         },
         "name": {
-            "pmmp": "Long Turtle Master Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Long Turtle Master Splash Potion",
+            "en": "Splash Potion of the Turtle Master",
+            "tr": "Kaplumbağa Ustasının Sıçrayan İksiri"
         }
     },
     {
@@ -7157,9 +7157,9 @@
             "meta": 39
         },
         "name": {
-            "pmmp": "Strong Turtle Master Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Strong Turtle Master Potion",
+            "en": "Potion of the Turtle Master",
+            "tr": "Kaplumbağa Ustasının İksiri"
         }
     },
     {
@@ -7176,9 +7176,9 @@
             "meta": 39
         },
         "name": {
-            "pmmp": "Strong Turtle Master Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Strong Turtle Master Splash Potion",
+            "en": "Splash Potion of the Turtle Master",
+            "tr": "Kaplumbağa Ustasının Sıçrayan İksiri"
         }
     },
     {
@@ -7195,9 +7195,9 @@
             "meta": 40
         },
         "name": {
-            "pmmp": "Slow Falling Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Slow Falling Potion",
+            "en": "Potion of Slow Falling",
+            "tr": "Yavaş Düşme İksiri"
         }
     },
     {
@@ -7214,9 +7214,9 @@
             "meta": 40
         },
         "name": {
-            "pmmp": "Slow Falling Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Slow Falling Splash Potion",
+            "en": "Splash Potion of Slow Falling",
+            "tr": "Sıçrayan Yavaş Düşme İksiri"
         }
     },
     {
@@ -7233,9 +7233,9 @@
             "meta": 41
         },
         "name": {
-            "pmmp": "Long Slow Falling Potion",
-            "en": "Water Bottle",
-            "tr": "Su Şişesi"
+            "pocketmine": "Long Slow Falling Potion",
+            "en": "Potion of Slow Falling",
+            "tr": "Yavaş Düşme İksiri"
         }
     },
     {
@@ -7252,9 +7252,9 @@
             "meta": 41
         },
         "name": {
-            "pmmp": "Long Slow Falling Splash Potion",
-            "en": "Splash Water Bottle",
-            "tr": "Sıçrayan Su Şişesi"
+            "pocketmine": "Long Slow Falling Splash Potion",
+            "en": "Splash Potion of Slow Falling",
+            "tr": "Sıçrayan Yavaş Düşme İksiri"
         }
     },
     {
@@ -7271,7 +7271,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Oak Boat",
+            "pocketmine": "Oak Boat",
             "en": "Oak Boat",
             "tr": "Meşe Tekne"
         }
@@ -7290,7 +7290,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Spruce Boat",
+            "pocketmine": "Spruce Boat",
             "en": "Spruce Boat",
             "tr": "Çam Tekne"
         }
@@ -7309,7 +7309,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Birch Boat",
+            "pocketmine": "Birch Boat",
             "en": "Birch Boat",
             "tr": "Huş Ağacından Tekne"
         }
@@ -7328,7 +7328,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Jungle Boat",
+            "pocketmine": "Jungle Boat",
             "en": "Jungle Boat",
             "tr": "Büyük Orman Tekne"
         }
@@ -7347,7 +7347,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Acacia Boat",
+            "pocketmine": "Acacia Boat",
             "en": "Acacia Boat",
             "tr": "Akasya Tekne"
         }
@@ -7366,7 +7366,7 @@
             "meta": 0
         },
         "name": {
-            "pmmp": "Dark Oak Boat",
+            "pocketmine": "Dark Oak Boat",
             "en": "Dark Oak Boat",
             "tr": "Koyu Meşe Tekne"
         }
